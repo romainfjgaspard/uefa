@@ -200,6 +200,7 @@ header h1 {
 .comp-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
 .comp-btn.ucl.active { background: #1A4B9B; border-color: #1A4B9B; }
 .comp-btn.uel.active { background: var(--accent2); border-color: var(--accent2); }
+.comp-btn.cwc.active { background: #9B59B6; border-color: #9B59B6; }
 .comp-btn.uecl.active { background: var(--accent3); border-color: var(--accent3); }
 
 /* === TABLE === */

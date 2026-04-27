@@ -232,37 +232,90 @@ function renderSeasonsAccordion(seasons) {
     const roundLabel = ROUND_LABELS[s.round_eliminated] || s.round_eliminated || "?";
     const id = `se-${i}`;
 
-    const matchRows = (s.matches || []).map((m) => {
-      const isQual = m.is_qualifying ? " (qual.)" : "";
-      const homeAway = m.home ? "Dom." : "Ext.";
-      const score = m.score_for != null ? `${m.score_for}–${m.score_against}` : "—";
-      const ptsTxt = m.uefa_points != null ? `+${m.uefa_points}` : "";
-      const opponent = m.opponent && m.opponent !== "Adversaire"
-        ? escHtml(m.opponent)
-        : `<em style="color:#8b949e">Adversaire</em>`;
-      const dateTxt = m.date ? escHtml(m.date) : "—";
-      const roundTxt = escHtml(ROUND_LABELS[m.round] || m.round || "—");
+    // Détecter si les données sont synthétiques (pas d'adversaires ni de dates réels)
+    const matches = s.matches || [];
+    const isSynthetic = matches.length === 0 ||
+      matches.every(m => !m.opponent || m.opponent === "Adversaire");
 
-      return `
-        <tr>
+    let matchTable;
+
+    if (isSynthetic && matches.length > 0) {
+      // Résumé par phase (données agrégées reconstituées)
+      const ROUND_ORDER_DISP = ["qualifying", "group", "R32", "R16", "QF", "SF", "F", "W"];
+      const phaseMap = {};
+      for (const m of matches) {
+        const r = m.round || "?";
+        if (!phaseMap[r]) phaseMap[r] = { w: 0, d: 0, l: 0, pts: 0 };
+        if (m.result === "W") phaseMap[r].w++;
+        else if (m.result === "D") phaseMap[r].d++;
+        else phaseMap[r].l++;
+        phaseMap[r].pts += (m.uefa_points || 0);
+      }
+
+      const phaseRows = ROUND_ORDER_DISP
+        .filter(r => phaseMap[r])
+        .map(r => {
+          const p = phaseMap[r];
+          const isQ = r === "qualifying";
+          const label = ROUND_LABELS[r] || r;
+          const m = p.w + p.d + p.l;
+          return `<tr>
+            <td>${escHtml(label)}${isQ ? ' <em style="color:#8b949e;font-size:0.8em">(qual.)</em>' : ''}</td>
+            <td style="color:#2ea043;font-weight:600;text-align:center">${p.w}</td>
+            <td style="color:#c9a227;font-weight:600;text-align:center">${p.d}</td>
+            <td style="color:#cf3d3d;font-weight:600;text-align:center">${p.l}</td>
+            <td style="color:#8b949e;text-align:center">${m}</td>
+            <td class="match-pts" style="text-align:right">+${p.pts.toFixed(2)}</td>
+          </tr>`;
+        }).join("");
+
+      matchTable = `
+        <p style="font-size:0.75rem;color:#8b949e;margin-bottom:0.5rem;font-style:italic">
+          Statistiques agrégées — détail des matchs (adversaires, dates) non disponible
+        </p>
+        <table class="match-table">
+          <thead><tr>
+            <th>Phase</th>
+            <th style="text-align:center">V</th>
+            <th style="text-align:center">N</th>
+            <th style="text-align:center">D</th>
+            <th style="text-align:center">Mj</th>
+            <th style="text-align:right">Pts</th>
+          </tr></thead>
+          <tbody>${phaseRows}</tbody>
+        </table>`;
+
+    } else if (!isSynthetic) {
+      // Données réelles — tableau complet avec date, H/E, adversaire
+      const matchRows = matches.map((m) => {
+        const isQual = m.is_qualifying ? " (qual.)" : "";
+        const homeAway = m.home ? "Dom." : "Ext.";
+        const score = m.score_for != null ? `${m.score_for}–${m.score_against}` : "—";
+        const ptsTxt = m.uefa_points != null ? `+${m.uefa_points}` : "";
+        const opponent = escHtml(m.opponent || "—");
+        const dateTxt = m.date ? escHtml(m.date) : "—";
+        const roundTxt = escHtml(ROUND_LABELS[m.round] || m.round || "—");
+        return `<tr>
           <td>${dateTxt}</td>
-          <td>${roundTxt}${isQual ? `<span class="match-qual">${isQual}</span>` : ""}</td>
+          <td>${roundTxt}${isQual ? `<em style="color:#8b949e;font-size:0.8em"> (qual.)</em>` : ""}</td>
           <td>${homeAway}</td>
           <td>${opponent}</td>
-          <td class="match-result-${m.result}">${score}</td>
+          <td class="match-result-${escHtml(m.result)}">${score}</td>
           <td class="match-pts">${ptsTxt}</td>
         </tr>`;
-    }).join("");
+      }).join("");
 
-    const matchTable = matchRows
-      ? `<table class="match-table">
-           <thead><tr>
-             <th>Date</th><th>Tour</th><th>H/E</th>
-             <th>Adversaire</th><th>Score</th><th>Pts</th>
-           </tr></thead>
-           <tbody>${matchRows}</tbody>
-         </table>`
-      : "<p style='color:#8b949e;font-size:0.82rem'>Détail non disponible (données agrégées)</p>";
+      matchTable = `<table class="match-table">
+        <thead><tr>
+          <th>Date</th><th>Tour</th><th>H/E</th>
+          <th>Adversaire</th><th>Score</th><th>Pts</th>
+        </tr></thead>
+        <tbody>${matchRows}</tbody>
+      </table>`;
+
+    } else {
+      matchTable = "<p style='color:#8b949e;font-size:0.82rem'>Détail non disponible</p>";
+    }
 
     return `
       <div class="season-entry">
