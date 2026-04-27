@@ -207,7 +207,7 @@ function renderCompBreakdown(compStats) {
           <span style="color:#cf3d3d">${s.losses}D</span>
           <span style="color:#8b949e;margin-left:4px">(${m} matchs, ${s.seasons} saisons)</span>
         </div>
-        <div class="comp-card-pts">${s.pts.toFixed(2)} pts</div>
+        <div class="comp-card-pts">${s.pts.toFixed(2)} pts <span style="color:#8b949e;font-size:0.8em;font-weight:normal">${m > 0 ? (s.pts/m).toFixed(3) : "—"} pts/match</span></div>
       </div>`;
   }).join("");
 }
@@ -329,6 +329,7 @@ function renderSeasonsAccordion(seasons) {
             <span style="color:#cf3d3d">${s.losses}D</span>
           </span>
           <span class="se-pts">${(s.total_points || 0).toFixed(2)} pts</span>
+          <span class="se-ratio" style="color:#8b949e;font-size:0.8em">${s.total_matches > 0 ? (s.pts_per_match || (s.total_points/s.total_matches)).toFixed(3) : '—'}/m</span>
           <span class="se-chevron">›</span>
         </div>
         <div class="season-entry-body" id="body-${id}">

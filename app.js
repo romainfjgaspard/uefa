@@ -214,7 +214,7 @@ function renderTable() {
       <td class="td-losses">${r.losses}</td>
       <td class="td-pts">${r.pts.toFixed(2)}</td>
       <td class="td-ratio">${r.ratio.toFixed(3)}</td>
-      <td>
+      <td class="td-comps">
         <div class="comp-pills">
           ${r.comps.map((c) => `<span class="comp-pill pill-${escapeHtml(c)}">${escapeHtml(c)}</span>`).join("")}
         </div>

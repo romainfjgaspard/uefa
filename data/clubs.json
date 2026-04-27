@@ -1,4 +1,61 @@
 {
+  "Paris Saint-Germain": {
+    "name": "Paris Saint-Germain",
+    "short": "PSG",
+    "city": "Paris",
+    "founded": 1970,
+    "logo_url": "images/logos/psg.svg",
+    "color": "#004170",
+    "color2": "#DA291C",
+    "total_matches": 189,
+    "wins": 106,
+    "draws": 33,
+    "losses": 50,
+    "goals_for": 263,
+    "goals_against": 150,
+    "total_uefa_points": 239.5,
+    "pts_per_match": 1.267,
+    "by_competition": {
+      "CWC": {
+        "matches": 18,
+        "wins": 12,
+        "draws": 1,
+        "losses": 5,
+        "uefa_points": 25.0,
+        "label": "Coupe des Vainqueurs de Coupe",
+        "color": "#9B59B6"
+      },
+      "UEL": {
+        "matches": 48,
+        "wins": 30,
+        "draws": 7,
+        "losses": 11,
+        "uefa_points": 65.0,
+        "label": "Ligue Europa",
+        "color": "#E67E22"
+      },
+      "CC": {
+        "matches": 2,
+        "wins": 0,
+        "draws": 1,
+        "losses": 1,
+        "uefa_points": 0.5,
+        "label": "Coupe des Clubs Champions",
+        "color": "#FFD700"
+      },
+      "UCL": {
+        "matches": 121,
+        "wins": 64,
+        "draws": 24,
+        "losses": 33,
+        "uefa_points": 149.0,
+        "label": "Ligue des Champions",
+        "color": "#1A4B9B"
+      }
+    },
+    "seasons_count": 34,
+    "best_round": "F"
+  },
   "Olympique Lyonnais": {
     "name": "Olympique Lyonnais",
     "short": "OL",
@@ -36,54 +93,6 @@
       }
     },
     "seasons_count": 23,
-    "best_round": "F"
-  },
-  "Paris Saint-Germain": {
-    "name": "Paris Saint-Germain",
-    "short": "PSG",
-    "city": "Paris",
-    "founded": 1970,
-    "logo_url": "images/logos/psg.svg",
-    "color": "#004170",
-    "color2": "#DA291C",
-    "total_matches": 127,
-    "wins": 67,
-    "draws": 26,
-    "losses": 34,
-    "goals_for": 224,
-    "goals_against": 134,
-    "total_uefa_points": 156.5,
-    "pts_per_match": 1.232,
-    "by_competition": {
-      "CWC": {
-        "matches": 4,
-        "wins": 3,
-        "draws": 1,
-        "losses": 0,
-        "uefa_points": 7.0,
-        "label": "Coupe des Vainqueurs de Coupe",
-        "color": "#9B59B6"
-      },
-      "CC": {
-        "matches": 2,
-        "wins": 0,
-        "draws": 1,
-        "losses": 1,
-        "uefa_points": 0.5,
-        "label": "Coupe des Clubs Champions",
-        "color": "#FFD700"
-      },
-      "UCL": {
-        "matches": 121,
-        "wins": 64,
-        "draws": 24,
-        "losses": 33,
-        "uefa_points": 149.0,
-        "label": "Ligue des Champions",
-        "color": "#1A4B9B"
-      }
-    },
-    "seasons_count": 20,
     "best_round": "F"
   },
   "Olympique Marseille": {
@@ -767,6 +776,45 @@
     "seasons_count": 2,
     "best_round": "F"
   },
+  "EA Guingamp": {
+    "name": "EA Guingamp",
+    "short": "EAG",
+    "city": "Guingamp",
+    "founded": 1912,
+    "logo_url": "images/logos/eag.svg",
+    "color": "#CC0000",
+    "color2": "#FFFFFF",
+    "total_matches": 12,
+    "wins": 4,
+    "draws": 2,
+    "losses": 6,
+    "goals_for": 4,
+    "goals_against": 6,
+    "total_uefa_points": 10.0,
+    "pts_per_match": 0.833,
+    "by_competition": {
+      "UEFA": {
+        "matches": 2,
+        "wins": 0,
+        "draws": 1,
+        "losses": 1,
+        "uefa_points": 1.0,
+        "label": "Coupe UEFA",
+        "color": "#E67E22"
+      },
+      "UEL": {
+        "matches": 10,
+        "wins": 4,
+        "draws": 1,
+        "losses": 5,
+        "uefa_points": 9.0,
+        "label": "Ligue Europa",
+        "color": "#E67E22"
+      }
+    },
+    "seasons_count": 3,
+    "best_round": "R32"
+  },
   "Stade Brestois": {
     "name": "Stade Brestois",
     "short": "SB29",
@@ -775,27 +823,27 @@
     "logo_url": "images/logos/sb29.svg",
     "color": "#FFFFFF",
     "color2": "#DA291C",
-    "total_matches": 3,
-    "wins": 1,
+    "total_matches": 9,
+    "wins": 4,
     "draws": 1,
-    "losses": 1,
-    "goals_for": 3,
-    "goals_against": 2,
-    "total_uefa_points": 3.0,
+    "losses": 4,
+    "goals_for": 4,
+    "goals_against": 4,
+    "total_uefa_points": 9.0,
     "pts_per_match": 1.0,
     "by_competition": {
       "UCL": {
-        "matches": 3,
-        "wins": 1,
+        "matches": 9,
+        "wins": 4,
         "draws": 1,
-        "losses": 1,
-        "uefa_points": 3.0,
+        "losses": 4,
+        "uefa_points": 9.0,
         "label": "Ligue des Champions",
         "color": "#1A4B9B"
       }
     },
     "seasons_count": 1,
-    "best_round": "group"
+    "best_round": "R32"
   },
   "Montpellier HSC": {
     "name": "Montpellier HSC",

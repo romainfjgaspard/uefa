@@ -278,7 +278,8 @@
       "FC Nantes": 8.5,
       "Olympique Marseille": 2.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 24.0
+      "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 5.0
     }
   },
   {
@@ -291,7 +292,8 @@
       "FC Nantes": 9.5,
       "Olympique Marseille": 2.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 24.0
+      "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 7.0
     }
   },
   {
@@ -305,6 +307,7 @@
       "Olympique Marseille": 2.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 9.0,
       "Girondins de Bordeaux": 9.5
     }
   },
@@ -319,6 +322,7 @@
       "Olympique Marseille": 2.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 9.0,
       "Girondins de Bordeaux": 10.0
     }
   },
@@ -333,8 +337,8 @@
       "Olympique Marseille": 2.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
-      "Girondins de Bordeaux": 10.0,
-      "Paris Saint-Germain": 0.5
+      "Paris Saint-Germain": 9.5,
+      "Girondins de Bordeaux": 10.0
     }
   },
   {
@@ -348,8 +352,8 @@
       "Olympique Marseille": 2.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
-      "Girondins de Bordeaux": 18.0,
-      "Paris Saint-Germain": 0.5
+      "Paris Saint-Germain": 9.5,
+      "Girondins de Bordeaux": 18.0
     }
   },
   {
@@ -363,8 +367,8 @@
       "Olympique Marseille": 2.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
-      "Girondins de Bordeaux": 18.0,
-      "Paris Saint-Germain": 0.5
+      "Paris Saint-Germain": 9.5,
+      "Girondins de Bordeaux": 18.0
     }
   },
   {
@@ -378,8 +382,8 @@
       "Olympique Marseille": 15.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
-      "Girondins de Bordeaux": 18.0,
-      "Paris Saint-Germain": 0.5
+      "Paris Saint-Germain": 11.5,
+      "Girondins de Bordeaux": 18.0
     }
   },
   {
@@ -393,8 +397,8 @@
       "Olympique Marseille": 29.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
-      "Girondins de Bordeaux": 18.0,
-      "Paris Saint-Germain": 0.5
+      "Paris Saint-Germain": 11.5,
+      "Girondins de Bordeaux": 18.0
     }
   },
   {
@@ -408,8 +412,8 @@
       "Olympique Marseille": 32.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
-      "Girondins de Bordeaux": 18.0,
-      "Paris Saint-Germain": 0.5
+      "Paris Saint-Germain": 11.5,
+      "Girondins de Bordeaux": 18.0
     }
   },
   {
@@ -423,8 +427,8 @@
       "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
-      "Girondins de Bordeaux": 25.0,
-      "Paris Saint-Germain": 0.5
+      "Paris Saint-Germain": 19.5,
+      "Girondins de Bordeaux": 25.0
     }
   },
   {
@@ -438,8 +442,8 @@
       "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
-      "Girondins de Bordeaux": 25.0,
-      "Paris Saint-Germain": 0.5
+      "Paris Saint-Germain": 27.5,
+      "Girondins de Bordeaux": 25.0
     }
   },
   {
@@ -453,8 +457,8 @@
       "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
-      "Girondins de Bordeaux": 25.0,
-      "Paris Saint-Germain": 20.5
+      "Paris Saint-Germain": 47.5,
+      "Girondins de Bordeaux": 25.0
     }
   },
   {
@@ -468,8 +472,8 @@
       "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
-      "Girondins de Bordeaux": 39.0,
-      "Paris Saint-Germain": 30.5
+      "Paris Saint-Germain": 57.5,
+      "Girondins de Bordeaux": 39.0
     }
   },
   {
@@ -483,9 +487,10 @@
       "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 66.5,
       "Girondins de Bordeaux": 42.0,
-      "Paris Saint-Germain": 30.5,
-      "AJ Auxerre": 10.0
+      "AJ Auxerre": 10.0,
+      "EA Guingamp": 1.0
     }
   },
   {
@@ -499,9 +504,10 @@
       "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 75.5,
       "Girondins de Bordeaux": 42.0,
-      "Paris Saint-Germain": 39.5,
-      "AJ Auxerre": 16.0
+      "AJ Auxerre": 16.0,
+      "EA Guingamp": 1.0
     }
   },
   {
@@ -515,9 +521,10 @@
       "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 75.5,
       "Girondins de Bordeaux": 48.0,
-      "Paris Saint-Germain": 39.5,
       "AJ Auxerre": 16.0,
+      "EA Guingamp": 1.0,
       "RC Lens": 6.0
     }
   },
@@ -532,9 +539,10 @@
       "Olympique Marseille": 61.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 75.5,
       "Girondins de Bordeaux": 59.0,
-      "Paris Saint-Germain": 39.5,
       "AJ Auxerre": 16.0,
+      "EA Guingamp": 1.0,
       "RC Lens": 6.0
     }
   },
@@ -549,9 +557,10 @@
       "Olympique Marseille": 61.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 86.5,
       "Girondins de Bordeaux": 59.0,
-      "Paris Saint-Germain": 50.5,
       "AJ Auxerre": 16.0,
+      "EA Guingamp": 1.0,
       "RC Lens": 6.0,
       "Olympique Lyonnais": 14.0
     }
@@ -567,9 +576,10 @@
       "Olympique Marseille": 61.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 90.5,
       "Girondins de Bordeaux": 59.0,
-      "Paris Saint-Germain": 50.5,
       "AJ Auxerre": 16.0,
+      "EA Guingamp": 1.0,
       "RC Lens": 6.0,
       "Olympique Lyonnais": 20.0,
       "LOSC Lille": 6.0
@@ -586,9 +596,10 @@
       "Olympique Marseille": 61.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 94.5,
       "Girondins de Bordeaux": 59.0,
-      "Paris Saint-Germain": 50.5,
       "AJ Auxerre": 22.5,
+      "EA Guingamp": 1.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 26.0,
       "LOSC Lille": 6.0
@@ -605,9 +616,10 @@
       "Olympique Marseille": 65.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 94.5,
       "Girondins de Bordeaux": 59.0,
-      "Paris Saint-Germain": 50.5,
       "AJ Auxerre": 22.5,
+      "EA Guingamp": 1.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 40.0,
       "LOSC Lille": 6.0
@@ -624,9 +636,10 @@
       "Olympique Marseille": 65.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 98.5,
       "Girondins de Bordeaux": 59.0,
-      "Paris Saint-Germain": 54.5,
       "AJ Auxerre": 22.5,
+      "EA Guingamp": 1.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 57.0,
       "LOSC Lille": 6.0
@@ -643,9 +656,10 @@
       "Olympique Marseille": 65.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 98.5,
       "Girondins de Bordeaux": 59.0,
-      "Paris Saint-Germain": 54.5,
       "AJ Auxerre": 22.5,
+      "EA Guingamp": 1.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 75.0,
       "LOSC Lille": 11.0
@@ -662,9 +676,10 @@
       "Olympique Marseille": 65.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 108.5,
       "Girondins de Bordeaux": 64.0,
-      "Paris Saint-Germain": 54.5,
       "AJ Auxerre": 22.5,
+      "EA Guingamp": 1.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 87.0,
       "LOSC Lille": 21.0
@@ -681,9 +696,10 @@
       "Olympique Marseille": 70.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 108.5,
       "Girondins de Bordeaux": 64.0,
-      "Paris Saint-Germain": 54.5,
       "AJ Auxerre": 22.5,
+      "EA Guingamp": 1.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 96.0,
       "LOSC Lille": 21.0
@@ -700,9 +716,10 @@
       "Olympique Marseille": 75.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 120.5,
       "Girondins de Bordeaux": 69.0,
-      "Paris Saint-Germain": 54.5,
       "AJ Auxerre": 22.5,
+      "EA Guingamp": 1.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 106.0,
       "LOSC Lille": 21.0
@@ -719,9 +736,10 @@
       "Olympique Marseille": 80.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 120.5,
       "Girondins de Bordeaux": 88.0,
-      "Paris Saint-Germain": 54.5,
       "AJ Auxerre": 22.5,
+      "EA Guingamp": 1.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 125.0,
       "LOSC Lille": 21.0
@@ -738,9 +756,10 @@
       "Olympique Marseille": 90.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 134.5,
       "Girondins de Bordeaux": 93.0,
-      "Paris Saint-Germain": 54.5,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 1.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 134.0,
       "LOSC Lille": 21.0
@@ -757,9 +776,10 @@
       "Olympique Marseille": 101.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 144.5,
       "Girondins de Bordeaux": 93.0,
-      "Paris Saint-Germain": 54.5,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 1.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 144.5,
       "LOSC Lille": 26.0
@@ -776,9 +796,10 @@
       "Olympique Marseille": 101.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 161.5,
       "Girondins de Bordeaux": 93.0,
-      "Paris Saint-Germain": 71.5,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 1.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 144.5,
       "LOSC Lille": 29.0,
@@ -796,9 +817,10 @@
       "Olympique Marseille": 101.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 178.5,
       "Girondins de Bordeaux": 93.0,
-      "Paris Saint-Germain": 88.5,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 1.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 146.5,
       "LOSC Lille": 29.0,
@@ -816,9 +838,10 @@
       "Olympique Marseille": 101.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 191.5,
       "Girondins de Bordeaux": 93.0,
-      "Paris Saint-Germain": 101.5,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 10.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 146.5,
       "LOSC Lille": 30.5,
@@ -836,9 +859,10 @@
       "Olympique Marseille": 101.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 207.5,
       "Girondins de Bordeaux": 93.0,
-      "Paris Saint-Germain": 117.5,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 10.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 149.5,
       "LOSC Lille": 30.5,
@@ -856,9 +880,10 @@
       "Olympique Marseille": 101.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 213.5,
       "Girondins de Bordeaux": 93.0,
-      "Paris Saint-Germain": 123.5,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 10.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 161.5,
       "LOSC Lille": 30.5,
@@ -876,9 +901,10 @@
       "Olympique Marseille": 118.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 216.5,
       "Girondins de Bordeaux": 93.5,
-      "Paris Saint-Germain": 126.5,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 10.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 172.5,
       "LOSC Lille": 30.5,
@@ -896,9 +922,10 @@
       "Olympique Marseille": 119.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 24.0,
+      "Paris Saint-Germain": 222.5,
       "Girondins de Bordeaux": 99.5,
-      "Paris Saint-Germain": 132.5,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 10.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 176.5,
       "LOSC Lille": 30.5,
@@ -917,9 +944,10 @@
       "Olympique Marseille": 119.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 26.0,
+      "Paris Saint-Germain": 235.5,
       "Girondins de Bordeaux": 99.5,
-      "Paris Saint-Germain": 145.5,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 10.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 186.5,
       "LOSC Lille": 31.5,
@@ -938,9 +966,10 @@
       "Olympique Marseille": 121.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 26.0,
+      "Paris Saint-Germain": 237.5,
       "Girondins de Bordeaux": 99.5,
-      "Paris Saint-Germain": 147.5,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 10.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 194.5,
       "LOSC Lille": 38.5,
@@ -959,9 +988,10 @@
       "Olympique Marseille": 132.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 26.0,
+      "Paris Saint-Germain": 242.0,
       "Girondins de Bordeaux": 99.5,
-      "Paris Saint-Germain": 152.0,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 10.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 201.5,
       "LOSC Lille": 43.0,
@@ -980,9 +1010,10 @@
       "Olympique Marseille": 134.5,
       "SC Bastia": 20.0,
       "RC Strasbourg": 26.0,
+      "Paris Saint-Germain": 246.5,
       "Girondins de Bordeaux": 99.5,
-      "Paris Saint-Germain": 156.5,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 10.0,
       "RC Lens": 12.0,
       "Olympique Lyonnais": 201.5,
       "LOSC Lille": 44.0,
@@ -1001,9 +1032,10 @@
       "Olympique Marseille": 147.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 26.0,
+      "Paris Saint-Germain": 258.0,
       "Girondins de Bordeaux": 99.5,
-      "Paris Saint-Germain": 168.0,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 10.0,
       "RC Lens": 19.0,
       "Olympique Lyonnais": 201.5,
       "LOSC Lille": 61.0,
@@ -1023,16 +1055,17 @@
       "Olympique Marseille": 147.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 26.0,
+      "Paris Saint-Germain": 274.0,
       "Girondins de Bordeaux": 99.5,
-      "Paris Saint-Germain": 184.0,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 10.0,
       "RC Lens": 21.0,
       "Olympique Lyonnais": 208.5,
       "LOSC Lille": 67.5,
       "Toulouse FC": 26.0,
       "Montpellier HSC": 2.0,
       "Stade Rennais": 34.5,
-      "Stade Brestois": 3.0
+      "Stade Brestois": 9.0
     }
   },
   {
@@ -1046,16 +1079,17 @@
       "Olympique Marseille": 149.0,
       "SC Bastia": 20.0,
       "RC Strasbourg": 35.0,
+      "Paris Saint-Germain": 284.0,
       "Girondins de Bordeaux": 99.5,
-      "Paris Saint-Germain": 194.0,
       "AJ Auxerre": 25.5,
+      "EA Guingamp": 10.0,
       "RC Lens": 21.0,
       "Olympique Lyonnais": 211.5,
       "LOSC Lille": 72.5,
       "Toulouse FC": 26.0,
       "Montpellier HSC": 2.0,
       "Stade Rennais": 34.5,
-      "Stade Brestois": 3.0
+      "Stade Brestois": 9.0
     }
   }
 ]

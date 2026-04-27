@@ -35,7 +35,8 @@
       "total_matches": 2,
       "uefa_match_points": 2.0,
       "bonus_points": 1.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 1.5
     },
     "UEFA_1980-81": {
       "season": "1980-81",
@@ -94,7 +95,8 @@
       "total_matches": 4,
       "uefa_match_points": 6.0,
       "bonus_points": 2.0,
-      "total_points": 8.0
+      "total_points": 8.0,
+      "pts_per_match": 2.0
     },
     "CC_1957-58": {
       "season": "1957-58",
@@ -131,7 +133,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "CC_1964-65": {
       "season": "1964-65",
@@ -168,7 +171,8 @@
       "total_matches": 2,
       "uefa_match_points": 0.5,
       "bonus_points": 0.0,
-      "total_points": 0.5
+      "total_points": 0.5,
+      "pts_per_match": 0.25
     },
     "CC_1967-68": {
       "season": "1967-68",
@@ -227,7 +231,8 @@
       "total_matches": 4,
       "uefa_match_points": 4.0,
       "bonus_points": 0.0,
-      "total_points": 4.0
+      "total_points": 4.0,
+      "pts_per_match": 1.0
     },
     "CC_1968-69": {
       "season": "1968-69",
@@ -264,7 +269,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "CC_1969-70": {
       "season": "1969-70",
@@ -323,7 +329,8 @@
       "total_matches": 4,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.25
     },
     "CC_1970-71": {
       "season": "1970-71",
@@ -360,7 +367,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "CC_1974-75": {
       "season": "1974-75",
@@ -463,7 +471,8 @@
       "total_matches": 8,
       "uefa_match_points": 6.5,
       "bonus_points": 2.0,
-      "total_points": 8.5
+      "total_points": 8.5,
+      "pts_per_match": 1.062
     },
     "CC_1975-76": {
       "season": "1975-76",
@@ -577,7 +586,8 @@
       "total_matches": 9,
       "uefa_match_points": 11.0,
       "bonus_points": 3.0,
-      "total_points": 14.0
+      "total_points": 14.0,
+      "pts_per_match": 1.556
     },
     "CC_1976-77": {
       "season": "1976-77",
@@ -658,7 +668,8 @@
       "total_matches": 6,
       "uefa_match_points": 6.5,
       "bonus_points": 1.0,
-      "total_points": 7.5
+      "total_points": 7.5,
+      "pts_per_match": 1.25
     },
     "CC_1981-82": {
       "season": "1981-82",
@@ -695,7 +706,8 @@
       "total_matches": 2,
       "uefa_match_points": 0.5,
       "bonus_points": 0.0,
-      "total_points": 0.5
+      "total_points": 0.5,
+      "pts_per_match": 0.25
     },
     "UEL_2016-17": {
       "season": "2016-17",
@@ -765,7 +777,8 @@
       "total_matches": 5,
       "uefa_match_points": 5.0,
       "bonus_points": 4.0,
-      "total_points": 9.0
+      "total_points": 9.0,
+      "pts_per_match": 1.8
     },
     "UEL_2019-20": {
       "season": "2019-20",
@@ -802,7 +815,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     }
   },
   "Girondins de Bordeaux": {
@@ -863,7 +877,8 @@
       "total_matches": 4,
       "uefa_match_points": 5.0,
       "bonus_points": 2.0,
-      "total_points": 7.0
+      "total_points": 7.0,
+      "pts_per_match": 1.75
     },
     "UEFA_1995-96": {
       "season": "1995-96",
@@ -944,7 +959,8 @@
       "total_matches": 6,
       "uefa_match_points": 10.0,
       "bonus_points": 4.0,
-      "total_points": 14.0
+      "total_points": 14.0,
+      "pts_per_match": 2.333
     },
     "UEFA_1996-97": {
       "season": "1996-97",
@@ -981,7 +997,8 @@
       "total_matches": 2,
       "uefa_match_points": 2.0,
       "bonus_points": 1.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 1.5
     },
     "UCL_1998-99": {
       "season": "1998-99",
@@ -1062,7 +1079,8 @@
       "total_matches": 6,
       "uefa_match_points": 6.0,
       "bonus_points": 0.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 1.0
     },
     "UCL_2010-11": {
       "season": "2010-11",
@@ -1165,7 +1183,8 @@
       "total_matches": 8,
       "uefa_match_points": 5.0,
       "bonus_points": 0.0,
-      "total_points": 5.0
+      "total_points": 5.0,
+      "pts_per_match": 0.625
     },
     "CC_1984-85": {
       "season": "1984-85",
@@ -1268,7 +1287,8 @@
       "total_matches": 8,
       "uefa_match_points": 7.5,
       "bonus_points": 2.0,
-      "total_points": 9.5
+      "total_points": 9.5,
+      "pts_per_match": 1.188
     },
     "CC_1985-86": {
       "season": "1985-86",
@@ -1305,7 +1325,8 @@
       "total_matches": 2,
       "uefa_match_points": 0.5,
       "bonus_points": 0.0,
-      "total_points": 0.5
+      "total_points": 0.5,
+      "pts_per_match": 0.25
     },
     "CC_1987-88": {
       "season": "1987-88",
@@ -1386,7 +1407,8 @@
       "total_matches": 6,
       "uefa_match_points": 7.0,
       "bonus_points": 1.0,
-      "total_points": 8.0
+      "total_points": 8.0,
+      "pts_per_match": 1.333
     },
     "UCL_1999-00": {
       "season": "1999-00",
@@ -1533,7 +1555,8 @@
       "total_matches": 12,
       "uefa_match_points": 11.0,
       "bonus_points": 0.0,
-      "total_points": 11.0
+      "total_points": 11.0,
+      "pts_per_match": 0.917
     },
     "UCL_2006-07": {
       "season": "2006-07",
@@ -1614,7 +1637,8 @@
       "total_matches": 6,
       "uefa_match_points": 5.0,
       "bonus_points": 0.0,
-      "total_points": 5.0
+      "total_points": 5.0,
+      "pts_per_match": 0.833
     },
     "UCL_2008-09": {
       "season": "2008-09",
@@ -1695,7 +1719,8 @@
       "total_matches": 6,
       "uefa_match_points": 5.0,
       "bonus_points": 0.0,
-      "total_points": 5.0
+      "total_points": 5.0,
+      "pts_per_match": 0.833
     },
     "UCL_2009-10": {
       "season": "2009-10",
@@ -1809,7 +1834,8 @@
       "total_matches": 9,
       "uefa_match_points": 17.0,
       "bonus_points": 2.0,
-      "total_points": 19.0
+      "total_points": 19.0,
+      "pts_per_match": 2.111
     },
     "UEL_2017-18": {
       "season": "2017-18",
@@ -1835,7 +1861,8 @@
       "total_matches": 1,
       "uefa_match_points": 0.5,
       "bonus_points": 0.0,
-      "total_points": 0.5
+      "total_points": 0.5,
+      "pts_per_match": 0.5
     },
     "UEL_2018-19": {
       "season": "2018-19",
@@ -1916,7 +1943,8 @@
       "total_matches": 6,
       "uefa_match_points": 6.0,
       "bonus_points": 0.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 1.0
     }
   },
   "AS Monaco": {
@@ -1988,7 +2016,8 @@
       "total_matches": 5,
       "uefa_match_points": 7.0,
       "bonus_points": 2.0,
-      "total_points": 9.0
+      "total_points": 9.0,
+      "pts_per_match": 1.8
     },
     "CC_1991-92": {
       "season": "1991-92",
@@ -2069,7 +2098,8 @@
       "total_matches": 6,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 0.5
     },
     "UCL_1994-95": {
       "season": "1994-95",
@@ -2150,7 +2180,8 @@
       "total_matches": 6,
       "uefa_match_points": 6.0,
       "bonus_points": 0.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 1.0
     },
     "UCL_1998-99": {
       "season": "1998-99",
@@ -2253,7 +2284,8 @@
       "total_matches": 8,
       "uefa_match_points": 9.0,
       "bonus_points": 2.0,
-      "total_points": 11.0
+      "total_points": 11.0,
+      "pts_per_match": 1.375
     },
     "UECL_2023-24": {
       "season": "2023-24",
@@ -2334,7 +2366,8 @@
       "total_matches": 6,
       "uefa_match_points": 5.0,
       "bonus_points": 0.0,
-      "total_points": 5.0
+      "total_points": 5.0,
+      "pts_per_match": 0.833
     },
     "CC_1961-62": {
       "season": "1961-62",
@@ -2371,7 +2404,8 @@
       "total_matches": 2,
       "uefa_match_points": 0.0,
       "bonus_points": 0.0,
-      "total_points": 0.0
+      "total_points": 0.0,
+      "pts_per_match": 0.0
     },
     "CC_1963-64": {
       "season": "1963-64",
@@ -2430,7 +2464,8 @@
       "total_matches": 4,
       "uefa_match_points": 1.5,
       "bonus_points": 0.0,
-      "total_points": 1.5
+      "total_points": 1.5,
+      "pts_per_match": 0.375
     },
     "CC_1978-79": {
       "season": "1978-79",
@@ -2489,7 +2524,8 @@
       "total_matches": 4,
       "uefa_match_points": 1.5,
       "bonus_points": 0.0,
-      "total_points": 1.5
+      "total_points": 1.5,
+      "pts_per_match": 0.375
     },
     "CC_1982-83": {
       "season": "1982-83",
@@ -2526,7 +2562,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "CC_1988-89": {
       "season": "1988-89",
@@ -2607,7 +2644,8 @@
       "total_matches": 6,
       "uefa_match_points": 4.0,
       "bonus_points": 1.0,
-      "total_points": 5.0
+      "total_points": 5.0,
+      "pts_per_match": 0.833
     },
     "UCL_1993-94": {
       "season": "1993-94",
@@ -2743,7 +2781,8 @@
       "total_matches": 11,
       "uefa_match_points": 9.5,
       "bonus_points": 3.0,
-      "total_points": 12.5
+      "total_points": 12.5,
+      "pts_per_match": 1.136
     },
     "UCL_1997-98": {
       "season": "1997-98",
@@ -2868,7 +2907,8 @@
       "total_matches": 10,
       "uefa_match_points": 13.0,
       "bonus_points": 3.0,
-      "total_points": 16.0
+      "total_points": 16.0,
+      "pts_per_match": 1.6
     },
     "UCL_2000-01": {
       "season": "2000-01",
@@ -2949,7 +2989,8 @@
       "total_matches": 6,
       "uefa_match_points": 5.0,
       "bonus_points": 0.0,
-      "total_points": 5.0
+      "total_points": 5.0,
+      "pts_per_match": 0.833
     },
     "UCL_2003-04": {
       "season": "2003-04",
@@ -3107,7 +3148,8 @@
       "total_matches": 13,
       "uefa_match_points": 15.0,
       "bonus_points": 4.0,
-      "total_points": 19.0
+      "total_points": 19.0,
+      "pts_per_match": 1.462
     },
     "UCL_2004-05": {
       "season": "2004-05",
@@ -3232,7 +3274,8 @@
       "total_matches": 10,
       "uefa_match_points": 10.0,
       "bonus_points": 1.0,
-      "total_points": 11.0
+      "total_points": 11.0,
+      "pts_per_match": 1.1
     },
     "UCL_2005-06": {
       "season": "2005-06",
@@ -3269,7 +3312,8 @@
       "total_matches": 2,
       "uefa_match_points": 0.5,
       "bonus_points": 0.0,
-      "total_points": 0.5
+      "total_points": 0.5,
+      "pts_per_match": 0.25
     },
     "UCL_2014-15": {
       "season": "2014-15",
@@ -3394,7 +3438,8 @@
       "total_matches": 10,
       "uefa_match_points": 11.0,
       "bonus_points": 2.0,
-      "total_points": 13.0
+      "total_points": 13.0,
+      "pts_per_match": 1.3
     },
     "UCL_2015-16": {
       "season": "2015-16",
@@ -3453,7 +3498,8 @@
       "total_matches": 4,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 0.75
     },
     "UCL_2016-17": {
       "season": "2016-17",
@@ -3534,7 +3580,8 @@
       "total_matches": 6,
       "uefa_match_points": 5.0,
       "bonus_points": 1.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 1.0
     },
     "UCL_2017-18": {
       "season": "2017-18",
@@ -3571,7 +3618,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "UCL_2018-19": {
       "season": "2018-19",
@@ -3608,7 +3656,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "UCL_2021-22": {
       "season": "2021-22",
@@ -3645,7 +3694,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "UCL_2022-23": {
       "season": "2022-23",
@@ -3671,7 +3721,8 @@
       "total_matches": 1,
       "uefa_match_points": 0.0,
       "bonus_points": 0.0,
-      "total_points": 0.0
+      "total_points": 0.0,
+      "pts_per_match": 0.0
     },
     "UCL_2024-25": {
       "season": "2024-25",
@@ -3730,7 +3781,8 @@
       "total_matches": 4,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 0.75
     },
     "UCL_2025-26": {
       "season": "2025-26",
@@ -3778,7 +3830,8 @@
       "total_matches": 3,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 1.0
     },
     "UEL_2021-22": {
       "season": "2021-22",
@@ -3826,7 +3879,8 @@
       "total_matches": 3,
       "uefa_match_points": 3.0,
       "bonus_points": 1.0,
-      "total_points": 4.0
+      "total_points": 4.0,
+      "pts_per_match": 1.333
     },
     "UEL_2022-23": {
       "season": "2022-23",
@@ -3885,10 +3939,305 @@
       "total_matches": 4,
       "uefa_match_points": 4.0,
       "bonus_points": 4.0,
-      "total_points": 8.0
+      "total_points": 8.0,
+      "pts_per_match": 2.0
     }
   },
   "Paris Saint-Germain": {
+    "CWC_1982-83": {
+      "season": "1982-83",
+      "competition": "CWC",
+      "competition_label": "Coupe des Vainqueurs de Coupe",
+      "round_eliminated": "QF",
+      "matches": [
+        {
+          "round": "QF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "QF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "QF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "total_matches": 3,
+      "uefa_match_points": 4.0,
+      "bonus_points": 1.0,
+      "total_points": 5.0,
+      "pts_per_match": 1.667
+    },
+    "CWC_1983-84": {
+      "season": "1983-84",
+      "competition": "CWC",
+      "competition_label": "Coupe des Vainqueurs de Coupe",
+      "round_eliminated": "R16",
+      "matches": [
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "total_matches": 2,
+      "uefa_match_points": 2.0,
+      "bonus_points": 0.0,
+      "total_points": 2.0,
+      "pts_per_match": 1.0
+    },
+    "UEL_1984-85": {
+      "season": "1984-85",
+      "competition": "UEL",
+      "competition_label": "Ligue Europa",
+      "round_eliminated": "R16",
+      "matches": [
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "total_matches": 2,
+      "uefa_match_points": 2.0,
+      "bonus_points": 0.0,
+      "total_points": 2.0,
+      "pts_per_match": 1.0
+    },
+    "UEL_1989-90": {
+      "season": "1989-90",
+      "competition": "UEL",
+      "competition_label": "Ligue Europa",
+      "round_eliminated": "R16",
+      "matches": [
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "total_matches": 2,
+      "uefa_match_points": 2.0,
+      "bonus_points": 0.0,
+      "total_points": 2.0,
+      "pts_per_match": 1.0
+    },
+    "UEL_1992-93": {
+      "season": "1992-93",
+      "competition": "UEL",
+      "competition_label": "Ligue Europa",
+      "round_eliminated": "SF",
+      "matches": [
+        {
+          "round": "SF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "SF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "SF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "SF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "SF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "total_matches": 5,
+      "uefa_match_points": 8.0,
+      "bonus_points": 0.0,
+      "total_points": 8.0,
+      "pts_per_match": 1.6
+    },
+    "CWC_1993-94": {
+      "season": "1993-94",
+      "competition": "CWC",
+      "competition_label": "Coupe des Vainqueurs de Coupe",
+      "round_eliminated": "SF",
+      "matches": [
+        {
+          "round": "SF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "SF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "SF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "SF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 3,
+      "draws": 0,
+      "losses": 1,
+      "total_matches": 4,
+      "uefa_match_points": 6.0,
+      "bonus_points": 2.0,
+      "total_points": 8.0,
+      "pts_per_match": 2.0
+    },
     "CWC_1995-96": {
       "season": "1995-96",
       "competition": "CWC",
@@ -3946,7 +4295,620 @@
       "total_matches": 4,
       "uefa_match_points": 7.0,
       "bonus_points": 3.0,
-      "total_points": 10.0
+      "total_points": 10.0,
+      "pts_per_match": 2.5
+    },
+    "CWC_1996-97": {
+      "season": "1996-97",
+      "competition": "CWC",
+      "competition_label": "Coupe des Vainqueurs de Coupe",
+      "round_eliminated": "F",
+      "matches": [
+        {
+          "round": "F",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "F",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "F",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "F",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 3,
+      "draws": 0,
+      "losses": 1,
+      "total_matches": 4,
+      "uefa_match_points": 6.0,
+      "bonus_points": 3.0,
+      "total_points": 9.0,
+      "pts_per_match": 2.25
+    },
+    "CWC_1998-99": {
+      "season": "1998-99",
+      "competition": "CWC",
+      "competition_label": "Coupe des Vainqueurs de Coupe",
+      "round_eliminated": "R32",
+      "matches": [
+        {
+          "round": "R32",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "total_matches": 1,
+      "uefa_match_points": 0.0,
+      "bonus_points": 0.0,
+      "total_points": 0.0,
+      "pts_per_match": 0.0
+    },
+    "UEL_2001-02": {
+      "season": "2001-02",
+      "competition": "UEL",
+      "competition_label": "Ligue Europa",
+      "round_eliminated": "R16",
+      "matches": [
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "total_matches": 3,
+      "uefa_match_points": 4.0,
+      "bonus_points": 0.0,
+      "total_points": 4.0,
+      "pts_per_match": 1.333
+    },
+    "UEL_2002-03": {
+      "season": "2002-03",
+      "competition": "UEL",
+      "competition_label": "Ligue Europa",
+      "round_eliminated": "R16",
+      "matches": [
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "total_matches": 3,
+      "uefa_match_points": 4.0,
+      "bonus_points": 0.0,
+      "total_points": 4.0,
+      "pts_per_match": 1.333
+    },
+    "UEL_2006-07": {
+      "season": "2006-07",
+      "competition": "UEL",
+      "competition_label": "Ligue Europa",
+      "round_eliminated": "R16",
+      "matches": [
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 0,
+          "result": "D",
+          "date": null,
+          "uefa_points": 1.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 0,
+          "result": "D",
+          "date": null,
+          "uefa_points": 1.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 4,
+      "draws": 2,
+      "losses": 1,
+      "total_matches": 7,
+      "uefa_match_points": 10.0,
+      "bonus_points": 0.0,
+      "total_points": 10.0,
+      "pts_per_match": 1.429
+    },
+    "UEL_2008-09": {
+      "season": "2008-09",
+      "competition": "UEL",
+      "competition_label": "Ligue Europa",
+      "round_eliminated": "QF",
+      "matches": [
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 0,
+          "result": "D",
+          "date": null,
+          "uefa_points": 1.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 0,
+          "result": "D",
+          "date": null,
+          "uefa_points": 1.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "QF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "QF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "QF",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 5,
+      "draws": 2,
+      "losses": 2,
+      "total_matches": 9,
+      "uefa_match_points": 12.0,
+      "bonus_points": 0.0,
+      "total_points": 12.0,
+      "pts_per_match": 1.333
+    },
+    "UEL_2010-11": {
+      "season": "2010-11",
+      "competition": "UEL",
+      "competition_label": "Ligue Europa",
+      "round_eliminated": "R16",
+      "matches": [
+        {
+          "round": "qualifying",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 1.0,
+          "is_qualifying": true
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 0,
+          "result": "D",
+          "date": null,
+          "uefa_points": 1.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 0,
+          "result": "D",
+          "date": null,
+          "uefa_points": 1.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R16",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 6,
+      "draws": 2,
+      "losses": 1,
+      "total_matches": 9,
+      "uefa_match_points": 13.0,
+      "bonus_points": 1.0,
+      "total_points": 14.0,
+      "pts_per_match": 1.556
+    },
+    "UEL_2011-12": {
+      "season": "2011-12",
+      "competition": "UEL",
+      "competition_label": "Ligue Europa",
+      "round_eliminated": "group",
+      "matches": [
+        {
+          "round": "qualifying",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 1.0,
+          "is_qualifying": true
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 0,
+          "result": "D",
+          "date": null,
+          "uefa_points": 1.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 5,
+      "draws": 1,
+      "losses": 2,
+      "total_matches": 8,
+      "uefa_match_points": 10.0,
+      "bonus_points": 0.0,
+      "total_points": 10.0,
+      "pts_per_match": 1.25
     },
     "CC_1986-87": {
       "season": "1986-87",
@@ -3983,7 +4945,8 @@
       "total_matches": 2,
       "uefa_match_points": 0.5,
       "bonus_points": 0.0,
-      "total_points": 0.5
+      "total_points": 0.5,
+      "pts_per_match": 0.25
     },
     "UCL_1994-95": {
       "season": "1994-95",
@@ -4130,7 +5093,8 @@
       "total_matches": 12,
       "uefa_match_points": 17.0,
       "bonus_points": 3.0,
-      "total_points": 20.0
+      "total_points": 20.0,
+      "pts_per_match": 1.667
     },
     "UCL_1997-98": {
       "season": "1997-98",
@@ -4233,7 +5197,8 @@
       "total_matches": 8,
       "uefa_match_points": 9.0,
       "bonus_points": 0.0,
-      "total_points": 9.0
+      "total_points": 9.0,
+      "pts_per_match": 1.125
     },
     "UCL_2000-01": {
       "season": "2000-01",
@@ -4380,7 +5345,8 @@
       "total_matches": 12,
       "uefa_match_points": 11.0,
       "bonus_points": 0.0,
-      "total_points": 11.0
+      "total_points": 11.0,
+      "pts_per_match": 0.917
     },
     "UCL_2004-05": {
       "season": "2004-05",
@@ -4461,7 +5427,8 @@
       "total_matches": 6,
       "uefa_match_points": 4.0,
       "bonus_points": 0.0,
-      "total_points": 4.0
+      "total_points": 4.0,
+      "pts_per_match": 0.667
     },
     "UCL_2012-13": {
       "season": "2012-13",
@@ -4586,7 +5553,8 @@
       "total_matches": 10,
       "uefa_match_points": 15.0,
       "bonus_points": 2.0,
-      "total_points": 17.0
+      "total_points": 17.0,
+      "pts_per_match": 1.7
     },
     "UCL_2013-14": {
       "season": "2013-14",
@@ -4711,7 +5679,8 @@
       "total_matches": 10,
       "uefa_match_points": 15.0,
       "bonus_points": 2.0,
-      "total_points": 17.0
+      "total_points": 17.0,
+      "pts_per_match": 1.7
     },
     "UCL_2014-15": {
       "season": "2014-15",
@@ -4836,7 +5805,8 @@
       "total_matches": 10,
       "uefa_match_points": 11.0,
       "bonus_points": 2.0,
-      "total_points": 13.0
+      "total_points": 13.0,
+      "pts_per_match": 1.3
     },
     "UCL_2015-16": {
       "season": "2015-16",
@@ -4961,7 +5931,8 @@
       "total_matches": 10,
       "uefa_match_points": 14.0,
       "bonus_points": 2.0,
-      "total_points": 16.0
+      "total_points": 16.0,
+      "pts_per_match": 1.6
     },
     "UCL_2016-17": {
       "season": "2016-17",
@@ -5009,7 +5980,8 @@
       "total_matches": 3,
       "uefa_match_points": 5.0,
       "bonus_points": 1.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 2.0
     },
     "UCL_2017-18": {
       "season": "2017-18",
@@ -5057,7 +6029,8 @@
       "total_matches": 3,
       "uefa_match_points": 2.0,
       "bonus_points": 1.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 1.0
     },
     "UCL_2018-19": {
       "season": "2018-19",
@@ -5116,7 +6089,8 @@
       "total_matches": 4,
       "uefa_match_points": 5.0,
       "bonus_points": 1.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 1.5
     },
     "UCL_2019-20": {
       "season": "2019-20",
@@ -5197,7 +6171,8 @@
       "total_matches": 6,
       "uefa_match_points": 9.0,
       "bonus_points": 4.0,
-      "total_points": 13.0
+      "total_points": 13.0,
+      "pts_per_match": 2.167
     },
     "UCL_2020-21": {
       "season": "2020-21",
@@ -5234,7 +6209,8 @@
       "total_matches": 2,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
+      "total_points": 2.0,
+      "pts_per_match": 1.0
     },
     "UCL_2021-22": {
       "season": "2021-22",
@@ -5293,7 +6269,8 @@
       "total_matches": 4,
       "uefa_match_points": 3.0,
       "bonus_points": 1.5,
-      "total_points": 4.5
+      "total_points": 4.5,
+      "pts_per_match": 1.125
     },
     "UCL_2022-23": {
       "season": "2022-23",
@@ -5341,7 +6318,8 @@
       "total_matches": 3,
       "uefa_match_points": 3.0,
       "bonus_points": 1.5,
-      "total_points": 4.5
+      "total_points": 4.5,
+      "pts_per_match": 1.5
     },
     "UCL_2023-24": {
       "season": "2023-24",
@@ -5422,7 +6400,8 @@
       "total_matches": 6,
       "uefa_match_points": 7.0,
       "bonus_points": 4.5,
-      "total_points": 11.5
+      "total_points": 11.5,
+      "pts_per_match": 1.917
     },
     "UCL_2024-25": {
       "season": "2024-25",
@@ -5514,7 +6493,8 @@
       "total_matches": 7,
       "uefa_match_points": 10.0,
       "bonus_points": 6.0,
-      "total_points": 16.0
+      "total_points": 16.0,
+      "pts_per_match": 2.286
     },
     "UCL_2025-26": {
       "season": "2025-26",
@@ -5584,7 +6564,8 @@
       "total_matches": 5,
       "uefa_match_points": 7.0,
       "bonus_points": 3.0,
-      "total_points": 10.0
+      "total_points": 10.0,
+      "pts_per_match": 2.0
     }
   },
   "Olympique Lyonnais": {
@@ -5689,7 +6670,8 @@
       "total_matches": 8,
       "uefa_match_points": 8.0,
       "bonus_points": 0.0,
-      "total_points": 8.0
+      "total_points": 8.0,
+      "pts_per_match": 1.0
     },
     "UCL_1999-00": {
       "season": "1999-00",
@@ -5726,7 +6708,8 @@
       "total_matches": 2,
       "uefa_match_points": 0.0,
       "bonus_points": 0.0,
-      "total_points": 0.0
+      "total_points": 0.0,
+      "pts_per_match": 0.0
     },
     "UCL_2000-01": {
       "season": "2000-01",
@@ -5895,7 +6878,8 @@
       "total_matches": 14,
       "uefa_match_points": 14.0,
       "bonus_points": 0.0,
-      "total_points": 14.0
+      "total_points": 14.0,
+      "pts_per_match": 1.0
     },
     "UCL_2001-02": {
       "season": "2001-02",
@@ -5976,7 +6960,8 @@
       "total_matches": 6,
       "uefa_match_points": 6.0,
       "bonus_points": 0.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 1.0
     },
     "UCL_2002-03": {
       "season": "2002-03",
@@ -6057,7 +7042,8 @@
       "total_matches": 6,
       "uefa_match_points": 6.0,
       "bonus_points": 0.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 1.0
     },
     "UCL_2003-04": {
       "season": "2003-04",
@@ -6182,7 +7168,8 @@
       "total_matches": 10,
       "uefa_match_points": 12.0,
       "bonus_points": 2.0,
-      "total_points": 14.0
+      "total_points": 14.0,
+      "pts_per_match": 1.4
     },
     "UCL_2004-05": {
       "season": "2004-05",
@@ -6307,7 +7294,8 @@
       "total_matches": 10,
       "uefa_match_points": 15.0,
       "bonus_points": 2.0,
-      "total_points": 17.0
+      "total_points": 17.0,
+      "pts_per_match": 1.7
     },
     "UCL_2005-06": {
       "season": "2005-06",
@@ -6432,7 +7420,8 @@
       "total_matches": 10,
       "uefa_match_points": 16.0,
       "bonus_points": 2.0,
-      "total_points": 18.0
+      "total_points": 18.0,
+      "pts_per_match": 1.8
     },
     "UCL_2006-07": {
       "season": "2006-07",
@@ -6535,7 +7524,8 @@
       "total_matches": 8,
       "uefa_match_points": 11.0,
       "bonus_points": 1.0,
-      "total_points": 12.0
+      "total_points": 12.0,
+      "pts_per_match": 1.5
     },
     "UCL_2007-08": {
       "season": "2007-08",
@@ -6638,7 +7628,8 @@
       "total_matches": 8,
       "uefa_match_points": 8.0,
       "bonus_points": 1.0,
-      "total_points": 9.0
+      "total_points": 9.0,
+      "pts_per_match": 1.125
     },
     "UCL_2008-09": {
       "season": "2008-09",
@@ -6741,7 +7732,8 @@
       "total_matches": 8,
       "uefa_match_points": 9.0,
       "bonus_points": 1.0,
-      "total_points": 10.0
+      "total_points": 10.0,
+      "pts_per_match": 1.25
     },
     "UCL_2009-10": {
       "season": "2009-10",
@@ -6899,7 +7891,8 @@
       "total_matches": 13,
       "uefa_match_points": 16.0,
       "bonus_points": 3.0,
-      "total_points": 19.0
+      "total_points": 19.0,
+      "pts_per_match": 1.462
     },
     "UCL_2010-11": {
       "season": "2010-11",
@@ -7002,7 +7995,8 @@
       "total_matches": 8,
       "uefa_match_points": 8.0,
       "bonus_points": 1.0,
-      "total_points": 9.0
+      "total_points": 9.0,
+      "pts_per_match": 1.125
     },
     "UCL_2011-12": {
       "season": "2011-12",
@@ -7127,7 +8121,8 @@
       "total_matches": 10,
       "uefa_match_points": 9.5,
       "bonus_points": 1.0,
-      "total_points": 10.5
+      "total_points": 10.5,
+      "pts_per_match": 1.05
     },
     "UCL_2013-14": {
       "season": "2013-14",
@@ -7186,7 +8181,8 @@
       "total_matches": 4,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
+      "total_points": 2.0,
+      "pts_per_match": 0.5
     },
     "UCL_2015-16": {
       "season": "2015-16",
@@ -7267,7 +8263,8 @@
       "total_matches": 6,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 0.5
     },
     "UCL_2016-17": {
       "season": "2016-17",
@@ -7315,7 +8312,8 @@
       "total_matches": 3,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 1.0
     },
     "UCL_2018-19": {
       "season": "2018-19",
@@ -7363,7 +8361,8 @@
       "total_matches": 3,
       "uefa_match_points": 3.0,
       "bonus_points": 1.0,
-      "total_points": 4.0
+      "total_points": 4.0,
+      "pts_per_match": 1.333
     },
     "UCL_2019-20": {
       "season": "2019-20",
@@ -7444,7 +8443,8 @@
       "total_matches": 6,
       "uefa_match_points": 7.0,
       "bonus_points": 3.0,
-      "total_points": 10.0
+      "total_points": 10.0,
+      "pts_per_match": 1.667
     },
     "UEL_2016-17": {
       "season": "2016-17",
@@ -7503,7 +8503,8 @@
       "total_matches": 4,
       "uefa_match_points": 5.0,
       "bonus_points": 4.0,
-      "total_points": 9.0
+      "total_points": 9.0,
+      "pts_per_match": 2.25
     },
     "UEL_2017-18": {
       "season": "2017-18",
@@ -7573,7 +8574,8 @@
       "total_matches": 5,
       "uefa_match_points": 7.0,
       "bonus_points": 4.0,
-      "total_points": 11.0
+      "total_points": 11.0,
+      "pts_per_match": 2.2
     },
     "UEL_2021-22": {
       "season": "2021-22",
@@ -7632,7 +8634,8 @@
       "total_matches": 4,
       "uefa_match_points": 5.0,
       "bonus_points": 2.0,
-      "total_points": 7.0
+      "total_points": 7.0,
+      "pts_per_match": 1.75
     },
     "UEL_2024-25": {
       "season": "2024-25",
@@ -7702,7 +8705,8 @@
       "total_matches": 5,
       "uefa_match_points": 5.0,
       "bonus_points": 2.0,
-      "total_points": 7.0
+      "total_points": 7.0,
+      "pts_per_match": 1.4
     },
     "UEL_2025-26": {
       "season": "2025-26",
@@ -7750,7 +8754,8 @@
       "total_matches": 3,
       "uefa_match_points": 2.0,
       "bonus_points": 1.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 1.0
     }
   },
   "LOSC Lille": {
@@ -7778,7 +8783,8 @@
       "total_matches": 1,
       "uefa_match_points": 0.0,
       "bonus_points": 0.0,
-      "total_points": 0.0
+      "total_points": 0.0,
+      "pts_per_match": 0.0
     },
     "UEL_2023-24": {
       "season": "2023-24",
@@ -7870,7 +8876,8 @@
       "total_matches": 7,
       "uefa_match_points": 8.0,
       "bonus_points": 1.0,
-      "total_points": 9.0
+      "total_points": 9.0,
+      "pts_per_match": 1.286
     },
     "UCL_2001-02": {
       "season": "2001-02",
@@ -7973,7 +8980,8 @@
       "total_matches": 8,
       "uefa_match_points": 6.0,
       "bonus_points": 0.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 0.75
     },
     "UCL_2005-06": {
       "season": "2005-06",
@@ -8054,7 +9062,8 @@
       "total_matches": 6,
       "uefa_match_points": 5.0,
       "bonus_points": 0.0,
-      "total_points": 5.0
+      "total_points": 5.0,
+      "pts_per_match": 0.833
     },
     "UCL_2006-07": {
       "season": "2006-07",
@@ -8179,7 +9188,8 @@
       "total_matches": 10,
       "uefa_match_points": 9.0,
       "bonus_points": 1.0,
-      "total_points": 10.0
+      "total_points": 10.0,
+      "pts_per_match": 1.0
     },
     "UCL_2011-12": {
       "season": "2011-12",
@@ -8260,7 +9270,8 @@
       "total_matches": 6,
       "uefa_match_points": 5.0,
       "bonus_points": 0.0,
-      "total_points": 5.0
+      "total_points": 5.0,
+      "pts_per_match": 0.833
     },
     "UCL_2012-13": {
       "season": "2012-13",
@@ -8363,7 +9374,8 @@
       "total_matches": 8,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 0.375
     },
     "UCL_2014-15": {
       "season": "2014-15",
@@ -8422,7 +9434,8 @@
       "total_matches": 4,
       "uefa_match_points": 1.5,
       "bonus_points": 0.0,
-      "total_points": 1.5
+      "total_points": 1.5,
+      "pts_per_match": 0.375
     },
     "UCL_2019-20": {
       "season": "2019-20",
@@ -8459,7 +9472,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "UCL_2021-22": {
       "season": "2021-22",
@@ -8518,7 +9532,8 @@
       "total_matches": 4,
       "uefa_match_points": 3.0,
       "bonus_points": 1.5,
-      "total_points": 4.5
+      "total_points": 4.5,
+      "pts_per_match": 1.125
     },
     "UCL_2024-25": {
       "season": "2024-25",
@@ -8599,7 +9614,8 @@
       "total_matches": 6,
       "uefa_match_points": 5.0,
       "bonus_points": 1.5,
-      "total_points": 6.5
+      "total_points": 6.5,
+      "pts_per_match": 1.083
     },
     "UEL_2016-17": {
       "season": "2016-17",
@@ -8625,7 +9641,8 @@
       "total_matches": 1,
       "uefa_match_points": 0.0,
       "bonus_points": 0.0,
-      "total_points": 0.0
+      "total_points": 0.0,
+      "pts_per_match": 0.0
     },
     "UEL_2018-19": {
       "season": "2018-19",
@@ -8651,7 +9668,8 @@
       "total_matches": 1,
       "uefa_match_points": 0.0,
       "bonus_points": 0.0,
-      "total_points": 0.0
+      "total_points": 0.0,
+      "pts_per_match": 0.0
     },
     "UEL_2020-21": {
       "season": "2020-21",
@@ -8710,7 +9728,8 @@
       "total_matches": 4,
       "uefa_match_points": 3.0,
       "bonus_points": 4.0,
-      "total_points": 7.0
+      "total_points": 7.0,
+      "pts_per_match": 1.75
     },
     "UEL_2025-26": {
       "season": "2025-26",
@@ -8769,7 +9788,8 @@
       "total_matches": 4,
       "uefa_match_points": 4.0,
       "bonus_points": 1.0,
-      "total_points": 5.0
+      "total_points": 5.0,
+      "pts_per_match": 1.25
     },
     "UECL_2022-23": {
       "season": "2022-23",
@@ -8806,7 +9826,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "UECL_2023-24": {
       "season": "2023-24",
@@ -8876,7 +9897,8 @@
       "total_matches": 5,
       "uefa_match_points": 7.0,
       "bonus_points": 1.0,
-      "total_points": 8.0
+      "total_points": 8.0,
+      "pts_per_match": 1.6
     }
   },
   "AJ Auxerre": {
@@ -8959,7 +9981,8 @@
       "total_matches": 6,
       "uefa_match_points": 6.0,
       "bonus_points": 0.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 1.0
     },
     "UCL_1996-97": {
       "season": "1996-97",
@@ -9062,7 +10085,8 @@
       "total_matches": 8,
       "uefa_match_points": 8.0,
       "bonus_points": 2.0,
-      "total_points": 10.0
+      "total_points": 10.0,
+      "pts_per_match": 1.25
     },
     "UCL_2002-03": {
       "season": "2002-03",
@@ -9165,7 +10189,8 @@
       "total_matches": 8,
       "uefa_match_points": 6.5,
       "bonus_points": 0.0,
-      "total_points": 6.5
+      "total_points": 6.5,
+      "pts_per_match": 0.812
     },
     "UCL_2010-11": {
       "season": "2010-11",
@@ -9268,7 +10293,8 @@
       "total_matches": 8,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 0.375
     }
   },
   "Stade Rennais": {
@@ -9373,7 +10399,8 @@
       "total_matches": 8,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 0.375
     },
     "UCL_2020-21": {
       "season": "2020-21",
@@ -9410,7 +10437,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "UEL_2018-19": {
       "season": "2018-19",
@@ -9469,7 +10497,8 @@
       "total_matches": 4,
       "uefa_match_points": 5.0,
       "bonus_points": 4.0,
-      "total_points": 9.0
+      "total_points": 9.0,
+      "pts_per_match": 2.25
     },
     "UEL_2019-20": {
       "season": "2019-20",
@@ -9517,7 +10546,8 @@
       "total_matches": 3,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 1.0
     },
     "UEL_2022-23": {
       "season": "2022-23",
@@ -9565,7 +10595,8 @@
       "total_matches": 3,
       "uefa_match_points": 4.0,
       "bonus_points": 4.0,
-      "total_points": 8.0
+      "total_points": 8.0,
+      "pts_per_match": 2.667
     },
     "UEL_2023-24": {
       "season": "2023-24",
@@ -9613,7 +10644,8 @@
       "total_matches": 3,
       "uefa_match_points": 2.0,
       "bonus_points": 4.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 2.0
     },
     "UECL_2021-22": {
       "season": "2021-22",
@@ -9672,7 +10704,307 @@
       "total_matches": 4,
       "uefa_match_points": 4.0,
       "bonus_points": 0.5,
-      "total_points": 4.5
+      "total_points": 4.5,
+      "pts_per_match": 1.125
+    }
+  },
+  "EA Guingamp": {
+    "UEFA_1996-97": {
+      "season": "1996-97",
+      "competition": "UEFA",
+      "competition_label": "Coupe UEFA",
+      "round_eliminated": "R32",
+      "matches": [
+        {
+          "round": "R32",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 0,
+          "result": "D",
+          "date": null,
+          "uefa_points": 1.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R32",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 0,
+      "draws": 1,
+      "losses": 1,
+      "total_matches": 2,
+      "uefa_match_points": 1.0,
+      "bonus_points": 0.0,
+      "total_points": 1.0,
+      "pts_per_match": 0.5
+    },
+    "UEL_2009-10": {
+      "season": "2009-10",
+      "competition": "UEL",
+      "competition_label": "Ligue Europa",
+      "round_eliminated": "qualifying",
+      "matches": [
+        {
+          "round": "qualifying",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": true
+        },
+        {
+          "round": "qualifying",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": true
+        }
+      ],
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "total_matches": 2,
+      "uefa_match_points": 0.0,
+      "bonus_points": 0.0,
+      "total_points": 0.0,
+      "pts_per_match": 0.0
+    },
+    "UEL_2014-15": {
+      "season": "2014-15",
+      "competition": "UEL",
+      "competition_label": "Ligue Europa",
+      "round_eliminated": "R32",
+      "matches": [
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 0,
+          "result": "D",
+          "date": null,
+          "uefa_points": 1.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R32",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R32",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 4,
+      "draws": 1,
+      "losses": 3,
+      "total_matches": 8,
+      "uefa_match_points": 9.0,
+      "bonus_points": 0.0,
+      "total_points": 9.0,
+      "pts_per_match": 1.125
+    }
+  },
+  "Stade Brestois": {
+    "UCL_2024-25": {
+      "season": "2024-25",
+      "competition": "UCL",
+      "competition_label": "Ligue des Champions",
+      "round_eliminated": "R32",
+      "matches": [
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 1,
+          "score_against": 0,
+          "result": "W",
+          "date": null,
+          "uefa_points": 2.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 0,
+          "result": "D",
+          "date": null,
+          "uefa_points": 1.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "group",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        },
+        {
+          "round": "R32",
+          "opponent": "Adversaire",
+          "home": true,
+          "score_for": 0,
+          "score_against": 1,
+          "result": "L",
+          "date": null,
+          "uefa_points": 0.0,
+          "is_qualifying": false
+        }
+      ],
+      "wins": 4,
+      "draws": 1,
+      "losses": 4,
+      "total_matches": 9,
+      "uefa_match_points": 9.0,
+      "bonus_points": 0.0,
+      "total_points": 9.0,
+      "pts_per_match": 1.0
     }
   },
   "Toulouse FC": {
@@ -9799,7 +11131,8 @@
       "total_matches": 10,
       "uefa_match_points": 12.0,
       "bonus_points": 1.0,
-      "total_points": 13.0
+      "total_points": 13.0,
+      "pts_per_match": 1.3
     },
     "UEL_2024-25": {
       "season": "2024-25",
@@ -9902,7 +11235,8 @@
       "total_matches": 8,
       "uefa_match_points": 6.0,
       "bonus_points": 0.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 0.75
     },
     "UCL_2007-08": {
       "season": "2007-08",
@@ -9939,7 +11273,8 @@
       "total_matches": 2,
       "uefa_match_points": 0.0,
       "bonus_points": 0.0,
-      "total_points": 0.0
+      "total_points": 0.0,
+      "pts_per_match": 0.0
     },
     "UEL_2023-24": {
       "season": "2023-24",
@@ -9998,7 +11333,8 @@
       "total_matches": 4,
       "uefa_match_points": 3.0,
       "bonus_points": 4.0,
-      "total_points": 7.0
+      "total_points": 7.0,
+      "pts_per_match": 1.75
     }
   },
   "RC Strasbourg": {
@@ -10092,7 +11428,8 @@
       "total_matches": 7,
       "uefa_match_points": 11.0,
       "bonus_points": 4.0,
-      "total_points": 15.0
+      "total_points": 15.0,
+      "pts_per_match": 2.143
     },
     "UEFA_1980-81": {
       "season": "1980-81",
@@ -10129,7 +11466,8 @@
       "total_matches": 2,
       "uefa_match_points": 2.0,
       "bonus_points": 1.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 1.5
     },
     "CC_1979-80": {
       "season": "1979-80",
@@ -10210,7 +11548,8 @@
       "total_matches": 6,
       "uefa_match_points": 5.0,
       "bonus_points": 1.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 1.0
     },
     "UEL_2019-20": {
       "season": "2019-20",
@@ -10258,7 +11597,8 @@
       "total_matches": 3,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
+      "total_points": 2.0,
+      "pts_per_match": 0.667
     },
     "UECL_2025-26": {
       "season": "2025-26",
@@ -10328,7 +11668,8 @@
       "total_matches": 5,
       "uefa_match_points": 8.0,
       "bonus_points": 1.0,
-      "total_points": 9.0
+      "total_points": 9.0,
+      "pts_per_match": 1.8
     }
   },
   "SC Bastia": {
@@ -10422,7 +11763,8 @@
       "total_matches": 7,
       "uefa_match_points": 10.0,
       "bonus_points": 4.0,
-      "total_points": 14.0
+      "total_points": 14.0,
+      "pts_per_match": 2.0
     },
     "UEFA_1982-83": {
       "season": "1982-83",
@@ -10470,7 +11812,8 @@
       "total_matches": 3,
       "uefa_match_points": 4.0,
       "bonus_points": 2.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 2.0
     }
   },
   "FC Nantes": {
@@ -10553,7 +11896,8 @@
       "total_matches": 6,
       "uefa_match_points": 6.0,
       "bonus_points": 0.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 1.0
     },
     "CC_1965-66": {
       "season": "1965-66",
@@ -10590,7 +11934,8 @@
       "total_matches": 2,
       "uefa_match_points": 0.5,
       "bonus_points": 0.0,
-      "total_points": 0.5
+      "total_points": 0.5,
+      "pts_per_match": 0.25
     },
     "CC_1966-67": {
       "season": "1966-67",
@@ -10649,7 +11994,8 @@
       "total_matches": 4,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
+      "total_points": 2.0,
+      "pts_per_match": 0.5
     },
     "CC_1973-74": {
       "season": "1973-74",
@@ -10686,7 +12032,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "CC_1977-78": {
       "season": "1977-78",
@@ -10745,7 +12092,8 @@
       "total_matches": 4,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
+      "total_points": 2.0,
+      "pts_per_match": 0.5
     },
     "CC_1980-81": {
       "season": "1980-81",
@@ -10804,7 +12152,8 @@
       "total_matches": 4,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 0.75
     },
     "CC_1983-84": {
       "season": "1983-84",
@@ -10841,7 +12190,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "UCL_1995-96": {
       "season": "1995-96",
@@ -10966,7 +12316,8 @@
       "total_matches": 10,
       "uefa_match_points": 12.0,
       "bonus_points": 3.0,
-      "total_points": 15.0
+      "total_points": 15.0,
+      "pts_per_match": 1.5
     },
     "UCL_2001-02": {
       "season": "2001-02",
@@ -11113,7 +12464,8 @@
       "total_matches": 12,
       "uefa_match_points": 10.0,
       "bonus_points": 0.0,
-      "total_points": 10.0
+      "total_points": 10.0,
+      "pts_per_match": 0.833
     },
     "UEL_2022-23": {
       "season": "2022-23",
@@ -11161,7 +12513,8 @@
       "total_matches": 3,
       "uefa_match_points": 3.0,
       "bonus_points": 4.0,
-      "total_points": 7.0
+      "total_points": 7.0,
+      "pts_per_match": 2.333
     }
   },
   "Stade de Reims": {
@@ -11200,7 +12553,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "CC_1955-56": {
       "season": "1955-56",
@@ -11292,7 +12646,8 @@
       "total_matches": 7,
       "uefa_match_points": 8.5,
       "bonus_points": 3.0,
-      "total_points": 11.5
+      "total_points": 11.5,
+      "pts_per_match": 1.643
     },
     "CC_1958-59": {
       "season": "1958-59",
@@ -11406,7 +12761,8 @@
       "total_matches": 9,
       "uefa_match_points": 10.0,
       "bonus_points": 3.0,
-      "total_points": 13.0
+      "total_points": 13.0,
+      "pts_per_match": 1.444
     },
     "CC_1960-61": {
       "season": "1960-61",
@@ -11465,7 +12821,8 @@
       "total_matches": 4,
       "uefa_match_points": 4.0,
       "bonus_points": 0.0,
-      "total_points": 4.0
+      "total_points": 4.0,
+      "pts_per_match": 1.0
     },
     "CC_1962-63": {
       "season": "1962-63",
@@ -11524,7 +12881,8 @@
       "total_matches": 4,
       "uefa_match_points": 3.0,
       "bonus_points": 1.0,
-      "total_points": 4.0
+      "total_points": 4.0,
+      "pts_per_match": 1.0
     },
     "UEL_2020-21": {
       "season": "2020-21",
@@ -11561,7 +12919,8 @@
       "total_matches": 2,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 1.5
     }
   },
   "RC Lens": {
@@ -11666,7 +13025,8 @@
       "total_matches": 8,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
+      "total_points": 2.0,
+      "pts_per_match": 0.25
     },
     "UCL_1998-99": {
       "season": "1998-99",
@@ -11747,7 +13107,8 @@
       "total_matches": 6,
       "uefa_match_points": 6.0,
       "bonus_points": 0.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 1.0
     },
     "UCL_2002-03": {
       "season": "2002-03",
@@ -11828,7 +13189,8 @@
       "total_matches": 6,
       "uefa_match_points": 6.0,
       "bonus_points": 0.0,
-      "total_points": 6.0
+      "total_points": 6.0,
+      "pts_per_match": 1.0
     },
     "UCL_2023-24": {
       "season": "2023-24",
@@ -11876,7 +13238,8 @@
       "total_matches": 3,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 1.0
     },
     "UEL_2023-24": {
       "season": "2023-24",
@@ -11902,7 +13265,8 @@
       "total_matches": 1,
       "uefa_match_points": 0.0,
       "bonus_points": 4.0,
-      "total_points": 4.0
+      "total_points": 4.0,
+      "pts_per_match": 4.0
     },
     "UECL_2024-25": {
       "season": "2024-25",
@@ -11928,7 +13292,8 @@
       "total_matches": 1,
       "uefa_match_points": 0.0,
       "bonus_points": 0.0,
-      "total_points": 0.0
+      "total_points": 0.0,
+      "pts_per_match": 0.0
     }
   },
   "OGC Nice": {
@@ -12022,7 +13387,8 @@
       "total_matches": 7,
       "uefa_match_points": 5.5,
       "bonus_points": 1.0,
-      "total_points": 6.5
+      "total_points": 6.5,
+      "pts_per_match": 0.929
     },
     "CC_1959-60": {
       "season": "1959-60",
@@ -12114,7 +13480,8 @@
       "total_matches": 7,
       "uefa_match_points": 7.5,
       "bonus_points": 1.0,
-      "total_points": 8.5
+      "total_points": 8.5,
+      "pts_per_match": 1.214
     },
     "UCL_2017-18": {
       "season": "2017-18",
@@ -12151,7 +13518,8 @@
       "total_matches": 2,
       "uefa_match_points": 0.5,
       "bonus_points": 0.0,
-      "total_points": 0.5
+      "total_points": 0.5,
+      "pts_per_match": 0.25
     },
     "UCL_2025-26": {
       "season": "2025-26",
@@ -12177,7 +13545,8 @@
       "total_matches": 1,
       "uefa_match_points": 0.0,
       "bonus_points": 0.0,
-      "total_points": 0.0
+      "total_points": 0.0,
+      "pts_per_match": 0.0
     },
     "UEL_2016-17": {
       "season": "2016-17",
@@ -12214,7 +13583,8 @@
       "total_matches": 2,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
+      "total_points": 2.0,
+      "pts_per_match": 1.0
     },
     "UEL_2017-18": {
       "season": "2017-18",
@@ -12262,7 +13632,8 @@
       "total_matches": 3,
       "uefa_match_points": 3.0,
       "bonus_points": 4.0,
-      "total_points": 7.0
+      "total_points": 7.0,
+      "pts_per_match": 2.333
     },
     "UEL_2020-21": {
       "season": "2020-21",
@@ -12299,7 +13670,8 @@
       "total_matches": 2,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
+      "total_points": 2.0,
+      "pts_per_match": 1.0
     },
     "UEL_2024-25": {
       "season": "2024-25",
@@ -12336,7 +13708,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "UEL_2025-26": {
       "season": "2025-26",
@@ -12373,7 +13746,8 @@
       "total_matches": 2,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
+      "total_points": 2.0,
+      "pts_per_match": 1.0
     },
     "UECL_2022-23": {
       "season": "2022-23",
@@ -12454,7 +13828,8 @@
       "total_matches": 6,
       "uefa_match_points": 6.0,
       "bonus_points": 1.0,
-      "total_points": 7.0
+      "total_points": 7.0,
+      "pts_per_match": 1.167
     }
   },
   "Olympique Marseille": {
@@ -12515,7 +13890,8 @@
       "total_matches": 4,
       "uefa_match_points": 1.5,
       "bonus_points": 0.0,
-      "total_points": 1.5
+      "total_points": 1.5,
+      "pts_per_match": 0.375
     },
     "CC_1972-73": {
       "season": "1972-73",
@@ -12552,7 +13928,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "CC_1989-90": {
       "season": "1989-90",
@@ -12655,7 +14032,8 @@
       "total_matches": 8,
       "uefa_match_points": 10.5,
       "bonus_points": 2.0,
-      "total_points": 12.5
+      "total_points": 12.5,
+      "pts_per_match": 1.562
     },
     "CC_1990-91": {
       "season": "1990-91",
@@ -12769,7 +14147,8 @@
       "total_matches": 9,
       "uefa_match_points": 11.5,
       "bonus_points": 3.0,
-      "total_points": 14.5
+      "total_points": 14.5,
+      "pts_per_match": 1.611
     },
     "CC_1991-92": {
       "season": "1991-92",
@@ -12828,7 +14207,8 @@
       "total_matches": 4,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 0.75
     },
     "UCL_1992-93": {
       "season": "1992-93",
@@ -12964,7 +14344,8 @@
       "total_matches": 11,
       "uefa_match_points": 14.5,
       "bonus_points": 4.0,
-      "total_points": 18.5
+      "total_points": 18.5,
+      "pts_per_match": 1.682
     },
     "UCL_1999-00": {
       "season": "1999-00",
@@ -13111,7 +14492,8 @@
       "total_matches": 12,
       "uefa_match_points": 10.0,
       "bonus_points": 0.0,
-      "total_points": 10.0
+      "total_points": 10.0,
+      "pts_per_match": 0.833
     },
     "UCL_2003-04": {
       "season": "2003-04",
@@ -13214,7 +14596,8 @@
       "total_matches": 8,
       "uefa_match_points": 4.5,
       "bonus_points": 0.0,
-      "total_points": 4.5
+      "total_points": 4.5,
+      "pts_per_match": 0.562
     },
     "UCL_2007-08": {
       "season": "2007-08",
@@ -13295,7 +14678,8 @@
       "total_matches": 6,
       "uefa_match_points": 5.0,
       "bonus_points": 0.0,
-      "total_points": 5.0
+      "total_points": 5.0,
+      "pts_per_match": 0.833
     },
     "UCL_2008-09": {
       "season": "2008-09",
@@ -13398,7 +14782,8 @@
       "total_matches": 8,
       "uefa_match_points": 5.0,
       "bonus_points": 0.0,
-      "total_points": 5.0
+      "total_points": 5.0,
+      "pts_per_match": 0.625
     },
     "UCL_2009-10": {
       "season": "2009-10",
@@ -13479,7 +14864,8 @@
       "total_matches": 6,
       "uefa_match_points": 5.0,
       "bonus_points": 0.0,
-      "total_points": 5.0
+      "total_points": 5.0,
+      "pts_per_match": 0.833
     },
     "UCL_2010-11": {
       "season": "2010-11",
@@ -13582,7 +14968,8 @@
       "total_matches": 8,
       "uefa_match_points": 9.0,
       "bonus_points": 1.0,
-      "total_points": 10.0
+      "total_points": 10.0,
+      "pts_per_match": 1.25
     },
     "UCL_2011-12": {
       "season": "2011-12",
@@ -13707,7 +15094,8 @@
       "total_matches": 10,
       "uefa_match_points": 9.0,
       "bonus_points": 2.0,
-      "total_points": 11.0
+      "total_points": 11.0,
+      "pts_per_match": 1.1
     },
     "UCL_2013-14": {
       "season": "2013-14",
@@ -13788,7 +15176,8 @@
       "total_matches": 6,
       "uefa_match_points": 0.0,
       "bonus_points": 0.0,
-      "total_points": 0.0
+      "total_points": 0.0,
+      "pts_per_match": 0.0
     },
     "UCL_2020-21": {
       "season": "2020-21",
@@ -13825,7 +15214,8 @@
       "total_matches": 2,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
+      "total_points": 2.0,
+      "pts_per_match": 1.0
     },
     "UCL_2022-23": {
       "season": "2022-23",
@@ -13862,7 +15252,8 @@
       "total_matches": 2,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
+      "total_points": 2.0,
+      "pts_per_match": 1.0
     },
     "UCL_2023-24": {
       "season": "2023-24",
@@ -13888,7 +15279,8 @@
       "total_matches": 1,
       "uefa_match_points": 0.5,
       "bonus_points": 0.0,
-      "total_points": 0.5
+      "total_points": 0.5,
+      "pts_per_match": 0.5
     },
     "UCL_2025-26": {
       "season": "2025-26",
@@ -13925,7 +15317,8 @@
       "total_matches": 2,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
+      "total_points": 2.0,
+      "pts_per_match": 1.0
     },
     "UEL_2017-18": {
       "season": "2017-18",
@@ -14050,7 +15443,8 @@
       "total_matches": 10,
       "uefa_match_points": 13.0,
       "bonus_points": 4.0,
-      "total_points": 17.0
+      "total_points": 17.0,
+      "pts_per_match": 1.7
     },
     "UEL_2018-19": {
       "season": "2018-19",
@@ -14087,7 +15481,8 @@
       "total_matches": 2,
       "uefa_match_points": 1.0,
       "bonus_points": 0.0,
-      "total_points": 1.0
+      "total_points": 1.0,
+      "pts_per_match": 0.5
     },
     "UEL_2021-22": {
       "season": "2021-22",
@@ -14135,7 +15530,8 @@
       "total_matches": 3,
       "uefa_match_points": 3.0,
       "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 3.0,
+      "pts_per_match": 1.0
     },
     "UEL_2023-24": {
       "season": "2023-24",
@@ -14227,7 +15623,8 @@
       "total_matches": 7,
       "uefa_match_points": 8.0,
       "bonus_points": 4.0,
-      "total_points": 12.0
+      "total_points": 12.0,
+      "pts_per_match": 1.714
     },
     "UECL_2021-22": {
       "season": "2021-22",
@@ -14286,7 +15683,8 @@
       "total_matches": 4,
       "uefa_match_points": 6.0,
       "bonus_points": 2.0,
-      "total_points": 8.0
+      "total_points": 8.0,
+      "pts_per_match": 2.0
     }
   },
   "Montpellier HSC": {
@@ -14369,57 +15767,8 @@
       "total_matches": 6,
       "uefa_match_points": 2.0,
       "bonus_points": 0.0,
-      "total_points": 2.0
-    }
-  },
-  "Stade Brestois": {
-    "UCL_2024-25": {
-      "season": "2024-25",
-      "competition": "UCL",
-      "competition_label": "Ligue des Champions",
-      "round_eliminated": "group",
-      "matches": [
-        {
-          "round": "group",
-          "opponent": "Adversaire",
-          "home": true,
-          "score_for": 2,
-          "score_against": 0,
-          "result": "W",
-          "date": null,
-          "uefa_points": 2.0,
-          "is_qualifying": false
-        },
-        {
-          "round": "group",
-          "opponent": "Adversaire",
-          "home": false,
-          "score_for": 1,
-          "score_against": 1,
-          "result": "D",
-          "date": null,
-          "uefa_points": 1.0,
-          "is_qualifying": false
-        },
-        {
-          "round": "group",
-          "opponent": "Adversaire",
-          "home": true,
-          "score_for": 0,
-          "score_against": 1,
-          "result": "L",
-          "date": null,
-          "uefa_points": 0.0,
-          "is_qualifying": false
-        }
-      ],
-      "wins": 1,
-      "draws": 1,
-      "losses": 1,
-      "total_matches": 3,
-      "uefa_match_points": 3.0,
-      "bonus_points": 0.0,
-      "total_points": 3.0
+      "total_points": 2.0,
+      "pts_per_match": 0.333
     }
   }
 }

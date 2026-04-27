@@ -98,5 +98,10 @@
     "short": "MHSC",
     "color": "#F57D00",
     "logo_url": "images/logos/mhsc.svg"
+  },
+  "EA Guingamp": {
+    "short": "EAG",
+    "color": "#CC0000",
+    "logo_url": "images/logos/eag.svg"
   }
 }

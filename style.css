@@ -266,7 +266,7 @@ header h1 {
 .td-pts { font-weight: 700; font-size: 1rem; }
 .td-ratio { color: var(--text-muted); font-size: 0.85rem; }
 
-.comp-pills { display: flex; gap: 0.3rem; flex-wrap: wrap; }
+.comp-pills { display: flex; gap: 0.3rem; flex-wrap: nowrap; }
 .comp-pill {
   border-radius: 3px;
   font-size: 0.7rem;
@@ -538,7 +538,6 @@ footer a { color: #58a6ff; text-decoration: none; }
   .tab-content { padding: 1rem; }
   .controls { flex-direction: column; }
   .dual-range-container { width: 160px; }
-  .th-ratio, .td-ratio { display: none; }
   .th-comps, .td-comps { display: none; }
   .club-stats-bar { padding: 1rem; }
   .section-block { padding: 0 1rem; }
