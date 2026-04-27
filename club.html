@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fiche club — Coefficients UEFA</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <a href="index.html" class="back-link">← Retour au classement</a>
+      <div id="club-header-info">
+        <img id="club-logo" src="" alt="" />
+        <div>
+          <h1 id="club-name">—</h1>
+          <p class="subtitle" id="club-meta">—</p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="club-stats-bar">
+    <div class="stat-card">
+      <div class="stat-val" id="stat-seasons">—</div>
+      <div class="stat-label">Saisons</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-val" id="stat-matches">—</div>
+      <div class="stat-label">Matchs</div>
+    </div>
+    <div class="stat-card wdl-card">
+      <span class="wdl-w" id="stat-w">—</span>
+      <span class="wdl-sep">/</span>
+      <span class="wdl-d" id="stat-d">—</span>
+      <span class="wdl-sep">/</span>
+      <span class="wdl-l" id="stat-l">—</span>
+      <div class="stat-label">V / N / D</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-val" id="stat-pts">—</div>
+      <div class="stat-label">Pts UEFA totaux</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-val" id="stat-ratio">—</div>
+      <div class="stat-label">Pts / match</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-val" id="stat-best">—</div>
+      <div class="stat-label">Meilleur tour</div>
+    </div>
+  </section>
+
+  <!-- Graphe évolution des points par saison -->
+  <section class="section-block">
+    <h2>Points par saison</h2>
+    <div id="season-chart-container">
+      <canvas id="season-chart"></canvas>
+    </div>
+  </section>
+
+  <!-- Détail par compétition -->
+  <section class="section-block">
+    <h2>Par compétition</h2>
+    <div id="comp-breakdown" class="comp-breakdown"></div>
+  </section>
+
+  <!-- Historique des saisons -->
+  <section class="section-block">
+    <h2>Historique des saisons</h2>
+    <div id="seasons-accordion"></div>
+  </section>
+
+  <footer>
+    Sources : UEFA, eurotopteam.com, worldfootball.net, RSSSF —
+    <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>
+  </footer>
+
+  <script src="club.js"></script>
+</body>
+</html>

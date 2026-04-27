@@ -1,0 +1,102 @@
+{
+  "Paris Saint-Germain": {
+    "short": "PSG",
+    "color": "#004170",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Paris_Saint-Germain_logo.svg/200px-Paris_Saint-Germain_logo.svg.png"
+  },
+  "Olympique Lyonnais": {
+    "short": "OL",
+    "color": "#032f75",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Olympique_Lyonnais_%28logo%29.svg/200px-Olympique_Lyonnais_%28logo%29.svg.png"
+  },
+  "Olympique Marseille": {
+    "short": "OM",
+    "color": "#2CBFEF",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/200px-Logo_Olympique_de_Marseille.svg.png"
+  },
+  "AS Monaco": {
+    "short": "ASM",
+    "color": "#EF3340",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/AS_Monaco_FC_%28Logo_2021%29.svg/200px-AS_Monaco_FC_%28Logo_2021%29.svg.png"
+  },
+  "LOSC Lille": {
+    "short": "LOSC",
+    "color": "#D0021B",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2011.svg/200px-Logo_LOSC_Lille_2011.svg.png"
+  },
+  "RC Lens": {
+    "short": "RCL",
+    "color": "#FFD700",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/RC_Lens_logo_2020.svg/200px-RC_Lens_logo_2020.svg.png"
+  },
+  "Girondins de Bordeaux": {
+    "short": "GDB",
+    "color": "#1D3F8F",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Girondins_de_Bordeaux_%28logo%2C_2021%29.svg/200px-Girondins_de_Bordeaux_%28logo%2C_2021%29.svg.png"
+  },
+  "Stade Rennais": {
+    "short": "SRFC",
+    "color": "#CF3237",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Stade_rennais_fc.svg/200px-Stade_rennais_fc.svg.png"
+  },
+  "OGC Nice": {
+    "short": "OGCN",
+    "color": "#CF3237",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Logo_OGC_Nice_2013.svg/200px-Logo_OGC_Nice_2013.svg.png"
+  },
+  "Stade Brestois": {
+    "short": "SB29",
+    "color": "#FFFFFF",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c6/Stade_Brestois_29.png/200px-Stade_Brestois_29.png"
+  },
+  "RC Strasbourg": {
+    "short": "RCSA",
+    "color": "#004EA0",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Racing_Club_de_Strasbourg.svg/200px-Racing_Club_de_Strasbourg.svg.png"
+  },
+  "Toulouse FC": {
+    "short": "TFC",
+    "color": "#3E0081",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/Toulouse_FC_%28logo%2C_2022%29.svg/200px-Toulouse_FC_%28logo%2C_2022%29.svg.png"
+  },
+  "AJ Auxerre": {
+    "short": "AJA",
+    "color": "#005BAC",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/AJ_Auxerre_logo.svg/200px-AJ_Auxerre_logo.svg.png"
+  },
+  "AS Saint-Étienne": {
+    "short": "ASSE",
+    "color": "#00A046",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/AS_Saint-Etienne_Logo.svg/200px-AS_Saint-Etienne_Logo.svg.png"
+  },
+  "FC Nantes": {
+    "short": "FCN",
+    "color": "#FFCD00",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/FC_Nantes_%28logo%2C_2019%29.svg/200px-FC_Nantes_%28logo%2C_2019%29.svg.png"
+  },
+  "Stade de Reims": {
+    "short": "SDR",
+    "color": "#DA291C",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/Stade_de_Reims_logo_2020.svg/200px-Stade_de_Reims_logo_2020.svg.png"
+  },
+  "SC Bastia": {
+    "short": "SCB",
+    "color": "#003087",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/SC_Bastia_logo.svg/200px-SC_Bastia_logo.svg.png"
+  },
+  "FC Metz": {
+    "short": "FCM",
+    "color": "#7B2181",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/FC_Metz_logo.svg/200px-FC_Metz_logo.svg.png"
+  },
+  "FC Sochaux": {
+    "short": "FCSM",
+    "color": "#FFCD00",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Sochaux-Montb%C3%A9liard.svg/200px-FC_Sochaux-Montb%C3%A9liard.svg.png"
+  },
+  "Montpellier HSC": {
+    "short": "MHSC",
+    "color": "#F57D00",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Montpellier_HSC_logo.svg/200px-Montpellier_HSC_logo.svg.png"
+  }
+}

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Clubs français en Europe — Coefficients UEFA</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>🇫🇷 Clubs français en Europe</h1>
+      <p class="subtitle">Historique des performances UEFA depuis 1955</p>
+    </div>
+  </header>
+
+  <nav class="tab-nav">
+    <button class="tab-btn active" data-tab="ranking">Classement</button>
+    <button class="tab-btn" data-tab="barrace">Évolution historique</button>
+  </nav>
+
+  <!-- =================== TAB: CLASSEMENT =================== -->
+  <section id="tab-ranking" class="tab-content active">
+
+    <div class="controls">
+      <div class="control-group">
+        <label>Période</label>
+        <div class="season-range-wrap">
+          <span id="season-min-label">1955</span>
+          <div class="dual-range-container">
+            <input type="range" id="range-min" min="1955" max="2026" value="1955" step="1" />
+            <input type="range" id="range-max" min="1955" max="2026" value="2026" step="1" />
+          </div>
+          <span id="season-max-label">2026</span>
+        </div>
+      </div>
+
+      <div class="control-group">
+        <label>Compétition</label>
+        <div class="comp-filter">
+          <button class="comp-btn active" data-comp="ALL">Toutes</button>
+          <button class="comp-btn ucl" data-comp="UCL,CC">C1</button>
+          <button class="comp-btn uel" data-comp="UEL,UEFA,CWC">C3</button>
+          <button class="comp-btn uecl" data-comp="UECL">ECL</button>
+        </div>
+      </div>
+
+      <div class="control-group">
+        <label>Recherche</label>
+        <input type="text" id="search-club" placeholder="Nom du club…" />
+      </div>
+    </div>
+
+    <div class="table-wrapper">
+      <table id="ranking-table">
+        <thead>
+          <tr>
+            <th class="th-rank">#</th>
+            <th class="th-club sortable" data-sort="name">Club</th>
+            <th class="th-saisons sortable" data-sort="seasons">Saisons</th>
+            <th class="th-w sortable" data-sort="wins">V</th>
+            <th class="th-d sortable" data-sort="draws">N</th>
+            <th class="th-l sortable" data-sort="losses">D</th>
+            <th class="th-pts sortable sorted-desc" data-sort="pts">Pts UEFA</th>
+            <th class="th-ratio sortable" data-sort="ratio">Pts/Match</th>
+            <th class="th-comps">Compétitions</th>
+          </tr>
+        </thead>
+        <tbody id="ranking-body">
+          <tr><td colspan="9" class="loading">Chargement…</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="table-footnote">
+      Points UEFA = 2 pts victoire, 1 pt nul, 0 pt défaite (demi-valeur en qualifications)<br>
+      + bonus parcours : +1,5 pt/tour (C1), +1 pt/tour (C3), +0,5 pt/tour (ECL)
+    </div>
+  </section>
+
+  <!-- =================== TAB: ÉVOLUTION =================== -->
+  <section id="tab-barrace" class="tab-content">
+    <div class="barrace-controls">
+      <button id="br-play" title="Lancer / Pause">▶</button>
+      <input type="range" id="br-seek" min="0" max="100" value="0" />
+      <span id="br-season-display">—</span>
+      <label style="margin-left:1rem;">
+        <input type="checkbox" id="br-top15" checked /> Top 15 seulement
+      </label>
+    </div>
+    <div id="barrace-container"></div>
+  </section>
+
+  <footer>
+    Sources : UEFA, eurotopteam.com, worldfootball.net, RSSSF —
+    <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>
+  </footer>
+
+  <script src="data/clubs.json" type="application/json" id="clubs-data-raw" style="display:none"></script>
+  <script src="app.js"></script>
+  <script src="barrace.js"></script>
+</body>
+</html>
