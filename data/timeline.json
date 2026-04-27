@@ -2,808 +2,1060 @@
   {
     "season": "1955-56",
     "scores": {
-      "Stade de Reims": 11.0
+      "Stade de Reims": 11.5
+    }
+  },
+  {
+    "season": "1956-57",
+    "scores": {
+      "Stade de Reims": 11.5,
+      "OGC Nice": 6.5
+    }
+  },
+  {
+    "season": "1957-58",
+    "scores": {
+      "Stade de Reims": 11.5,
+      "OGC Nice": 6.5,
+      "AS Saint-Étienne": 1.0
     }
   },
   {
     "season": "1958-59",
     "scores": {
-      "Stade de Reims": 20.0
+      "Stade de Reims": 24.5,
+      "OGC Nice": 6.5,
+      "AS Saint-Étienne": 1.0
     }
   },
   {
     "season": "1959-60",
     "scores": {
-      "Stade de Reims": 20.0
+      "Stade de Reims": 24.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 1.0
     }
   },
   {
     "season": "1960-61",
     "scores": {
-      "Stade de Reims": 25.0
+      "Stade de Reims": 28.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 1.0
+    }
+  },
+  {
+    "season": "1961-62",
+    "scores": {
+      "Stade de Reims": 28.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 1.0
     }
   },
   {
     "season": "1962-63",
     "scores": {
-      "Stade de Reims": 28.0
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 1.0
+    }
+  },
+  {
+    "season": "1963-64",
+    "scores": {
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 1.0,
+      "AS Monaco": 1.5
+    }
+  },
+  {
+    "season": "1964-65",
+    "scores": {
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 1.5,
+      "AS Monaco": 1.5
     }
   },
   {
     "season": "1965-66",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 2.0
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 1.5,
+      "AS Monaco": 1.5,
+      "FC Nantes": 0.5
     }
   },
   {
     "season": "1966-67",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 1.5,
+      "AS Monaco": 1.5,
+      "FC Nantes": 2.5
     }
   },
   {
     "season": "1967-68",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 2.0
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 5.5,
+      "AS Monaco": 1.5,
+      "FC Nantes": 2.5
     }
   },
   {
     "season": "1968-69",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 4.0
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 6.5,
+      "AS Monaco": 1.5,
+      "FC Nantes": 2.5
     }
   },
   {
     "season": "1969-70",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 4.0
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 7.5,
+      "AS Monaco": 1.5,
+      "FC Nantes": 2.5
+    }
+  },
+  {
+    "season": "1970-71",
+    "scores": {
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 8.5,
+      "AS Monaco": 1.5,
+      "FC Nantes": 2.5
     }
   },
   {
     "season": "1971-72",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 7.0
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 11.5,
+      "AS Monaco": 1.5,
+      "FC Nantes": 2.5,
+      "Olympique Marseille": 1.5
+    }
+  },
+  {
+    "season": "1972-73",
+    "scores": {
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 11.5,
+      "AS Monaco": 1.5,
+      "FC Nantes": 2.5,
+      "Olympique Marseille": 2.5
+    }
+  },
+  {
+    "season": "1973-74",
+    "scores": {
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 11.5,
+      "AS Monaco": 1.5,
+      "FC Nantes": 3.5,
+      "Olympique Marseille": 2.5
     }
   },
   {
     "season": "1974-75",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 20.0
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 20.0,
+      "AS Monaco": 1.5,
+      "FC Nantes": 3.5,
+      "Olympique Marseille": 2.5
     }
   },
   {
     "season": "1975-76",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 40.0
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 34.0,
+      "AS Monaco": 1.5,
+      "FC Nantes": 3.5,
+      "Olympique Marseille": 2.5
     }
   },
   {
     "season": "1976-77",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 51.0
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 41.5,
+      "AS Monaco": 1.5,
+      "FC Nantes": 3.5,
+      "Olympique Marseille": 2.5
     }
   },
   {
     "season": "1977-78",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 51.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 41.5,
+      "AS Monaco": 1.5,
+      "FC Nantes": 5.5,
+      "Olympique Marseille": 2.5,
       "SC Bastia": 14.0
     }
   },
   {
     "season": "1978-79",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 51.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 41.5,
+      "AS Monaco": 3.0,
+      "FC Nantes": 5.5,
+      "Olympique Marseille": 2.5,
       "SC Bastia": 14.0,
       "RC Strasbourg": 15.0
     }
   },
   {
+    "season": "1979-80",
+    "scores": {
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 41.5,
+      "AS Monaco": 3.0,
+      "FC Nantes": 5.5,
+      "Olympique Marseille": 2.5,
+      "SC Bastia": 14.0,
+      "RC Strasbourg": 21.0
+    }
+  },
+  {
     "season": "1980-81",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 59.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 49.5,
+      "AS Monaco": 3.0,
+      "FC Nantes": 8.5,
+      "Olympique Marseille": 2.5,
       "SC Bastia": 14.0,
-      "RC Strasbourg": 18.0
+      "RC Strasbourg": 24.0
     }
   },
   {
     "season": "1981-82",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 3.0,
+      "FC Nantes": 8.5,
+      "Olympique Marseille": 2.5,
       "SC Bastia": 14.0,
-      "RC Strasbourg": 18.0
+      "RC Strasbourg": 24.0
     }
   },
   {
     "season": "1982-83",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 4.0,
+      "FC Nantes": 8.5,
+      "Olympique Marseille": 2.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0
+      "RC Strasbourg": 24.0
+    }
+  },
+  {
+    "season": "1983-84",
+    "scores": {
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 4.0,
+      "FC Nantes": 9.5,
+      "Olympique Marseille": 2.5,
+      "SC Bastia": 20.0,
+      "RC Strasbourg": 24.0
     }
   },
   {
     "season": "1984-85",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 4.0,
+      "FC Nantes": 9.5,
+      "Olympique Marseille": 2.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 15.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 9.5
+    }
+  },
+  {
+    "season": "1985-86",
+    "scores": {
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 4.0,
+      "FC Nantes": 9.5,
+      "Olympique Marseille": 2.5,
+      "SC Bastia": 20.0,
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 10.0
+    }
+  },
+  {
+    "season": "1986-87",
+    "scores": {
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 4.0,
+      "FC Nantes": 9.5,
+      "Olympique Marseille": 2.5,
+      "SC Bastia": 20.0,
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 10.0,
+      "Paris Saint-Germain": 0.5
     }
   },
   {
     "season": "1987-88",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 13.0,
+      "FC Nantes": 9.5,
+      "Olympique Marseille": 2.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 30.0,
-      "AS Monaco": 9.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 18.0,
+      "Paris Saint-Germain": 0.5
+    }
+  },
+  {
+    "season": "1988-89",
+    "scores": {
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 18.0,
+      "FC Nantes": 9.5,
+      "Olympique Marseille": 2.5,
+      "SC Bastia": 20.0,
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 18.0,
+      "Paris Saint-Germain": 0.5
     }
   },
   {
     "season": "1989-90",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 18.0,
+      "FC Nantes": 9.5,
+      "Olympique Marseille": 15.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 30.0,
-      "AS Monaco": 9.0,
-      "Olympique Marseille": 10.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 18.0,
+      "Paris Saint-Germain": 0.5
     }
   },
   {
     "season": "1990-91",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 18.0,
+      "FC Nantes": 9.5,
+      "Olympique Marseille": 29.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 30.0,
-      "AS Monaco": 9.0,
-      "Olympique Marseille": 22.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 18.0,
+      "Paris Saint-Germain": 0.5
     }
   },
   {
     "season": "1991-92",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 21.0,
+      "FC Nantes": 9.5,
+      "Olympique Marseille": 32.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 30.0,
-      "AS Monaco": 12.0,
-      "Olympique Marseille": 38.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 18.0,
+      "Paris Saint-Germain": 0.5
     }
   },
   {
     "season": "1992-93",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 21.0,
+      "FC Nantes": 9.5,
+      "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 37.0,
-      "AS Monaco": 12.0,
-      "Olympique Marseille": 54.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 25.0,
+      "Paris Saint-Germain": 0.5
+    }
+  },
+  {
+    "season": "1993-94",
+    "scores": {
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 33.5,
+      "FC Nantes": 9.5,
+      "Olympique Marseille": 51.0,
+      "SC Bastia": 20.0,
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 25.0,
+      "Paris Saint-Germain": 0.5
     }
   },
   {
     "season": "1994-95",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 10.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 39.5,
+      "FC Nantes": 9.5,
+      "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 37.0,
-      "AS Monaco": 18.0,
-      "Olympique Marseille": 54.0,
-      "Paris Saint-Germain": 13.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 25.0,
+      "Paris Saint-Germain": 20.5
     }
   },
   {
     "season": "1995-96",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 24.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 39.5,
+      "FC Nantes": 24.5,
+      "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 51.0,
-      "AS Monaco": 18.0,
-      "Olympique Marseille": 54.0,
-      "Paris Saint-Germain": 23.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 39.0,
+      "Paris Saint-Germain": 30.5
     }
   },
   {
     "season": "1996-97",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 39.5,
+      "FC Nantes": 30.5,
+      "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 54.0,
-      "AS Monaco": 18.0,
-      "Olympique Marseille": 54.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 14.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 42.0,
+      "Paris Saint-Germain": 30.5,
+      "AJ Auxerre": 10.0
     }
   },
   {
     "season": "1997-98",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 55.5,
+      "FC Nantes": 30.5,
+      "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 54.0,
-      "AS Monaco": 34.0,
-      "Olympique Marseille": 54.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 42.0,
+      "Paris Saint-Germain": 39.5,
+      "AJ Auxerre": 16.0
     }
   },
   {
     "season": "1998-99",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 66.5,
+      "FC Nantes": 30.5,
+      "Olympique Marseille": 51.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 60.0,
-      "AS Monaco": 45.0,
-      "Olympique Marseille": 54.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 48.0,
+      "Paris Saint-Germain": 39.5,
+      "AJ Auxerre": 16.0,
+      "RC Lens": 6.0
     }
   },
   {
     "season": "1999-00",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 66.5,
+      "FC Nantes": 30.5,
+      "Olympique Marseille": 61.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 64.0,
-      "AS Monaco": 45.0,
-      "Olympique Marseille": 60.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0,
-      "Olympique Lyonnais": 7.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 59.0,
+      "Paris Saint-Germain": 39.5,
+      "AJ Auxerre": 16.0,
+      "RC Lens": 6.0
     }
   },
   {
     "season": "2000-01",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 71.5,
+      "FC Nantes": 30.5,
+      "Olympique Marseille": 61.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 64.0,
-      "AS Monaco": 45.0,
-      "Olympique Marseille": 60.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0,
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 59.0,
+      "Paris Saint-Germain": 50.5,
+      "AJ Auxerre": 16.0,
+      "RC Lens": 6.0,
       "Olympique Lyonnais": 14.0
     }
   },
   {
     "season": "2001-02",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 71.5,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 61.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 64.0,
-      "AS Monaco": 45.0,
-      "Olympique Marseille": 60.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0,
-      "Olympique Lyonnais": 24.0,
-      "LOSC Lille": 8.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 59.0,
+      "Paris Saint-Germain": 50.5,
+      "AJ Auxerre": 16.0,
+      "RC Lens": 6.0,
+      "Olympique Lyonnais": 20.0,
+      "LOSC Lille": 6.0
     }
   },
   {
     "season": "2002-03",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 71.5,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 61.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 64.0,
-      "AS Monaco": 45.0,
-      "Olympique Marseille": 60.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0,
-      "Olympique Lyonnais": 30.0,
-      "LOSC Lille": 8.0,
-      "RC Lens": 4.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 59.0,
+      "Paris Saint-Germain": 50.5,
+      "AJ Auxerre": 22.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 26.0,
+      "LOSC Lille": 6.0
     }
   },
   {
     "season": "2003-04",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 90.5,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 65.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 64.0,
-      "AS Monaco": 68.0,
-      "Olympique Marseille": 60.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0,
-      "Olympique Lyonnais": 42.0,
-      "LOSC Lille": 8.0,
-      "RC Lens": 4.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 59.0,
+      "Paris Saint-Germain": 50.5,
+      "AJ Auxerre": 22.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 40.0,
+      "LOSC Lille": 6.0
     }
   },
   {
     "season": "2004-05",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 101.5,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 65.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 64.0,
-      "AS Monaco": 77.0,
-      "Olympique Marseille": 60.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0,
-      "Olympique Lyonnais": 58.0,
-      "LOSC Lille": 8.0,
-      "RC Lens": 4.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 59.0,
+      "Paris Saint-Germain": 54.5,
+      "AJ Auxerre": 22.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 57.0,
+      "LOSC Lille": 6.0
     }
   },
   {
     "season": "2005-06",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 102.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 65.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 64.0,
-      "AS Monaco": 77.0,
-      "Olympique Marseille": 60.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0,
-      "Olympique Lyonnais": 67.0,
-      "LOSC Lille": 8.0,
-      "RC Lens": 4.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 59.0,
+      "Paris Saint-Germain": 54.5,
+      "AJ Auxerre": 22.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 75.0,
+      "LOSC Lille": 11.0
     }
   },
   {
     "season": "2006-07",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 102.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 65.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
+      "RC Strasbourg": 24.0,
       "Girondins de Bordeaux": 64.0,
-      "AS Monaco": 77.0,
-      "Olympique Marseille": 60.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0,
-      "Olympique Lyonnais": 77.0,
-      "LOSC Lille": 9.0,
-      "RC Lens": 4.0
+      "Paris Saint-Germain": 54.5,
+      "AJ Auxerre": 22.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 87.0,
+      "LOSC Lille": 21.0
     }
   },
   {
     "season": "2007-08",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 102.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 70.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
+      "RC Strasbourg": 24.0,
       "Girondins de Bordeaux": 64.0,
-      "AS Monaco": 77.0,
-      "Olympique Marseille": 60.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0,
-      "Olympique Lyonnais": 93.0,
-      "LOSC Lille": 9.0,
-      "RC Lens": 4.0
+      "Paris Saint-Germain": 54.5,
+      "AJ Auxerre": 22.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 96.0,
+      "LOSC Lille": 21.0
     }
   },
   {
     "season": "2008-09",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 102.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 75.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 79.0,
-      "AS Monaco": 77.0,
-      "Olympique Marseille": 60.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0,
-      "Olympique Lyonnais": 105.0,
-      "LOSC Lille": 9.0,
-      "RC Lens": 4.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 69.0,
+      "Paris Saint-Germain": 54.5,
+      "AJ Auxerre": 22.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 106.0,
+      "LOSC Lille": 21.0
     }
   },
   {
     "season": "2009-10",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 102.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 80.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 87.0,
-      "AS Monaco": 77.0,
-      "Olympique Marseille": 60.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 20.0,
-      "Olympique Lyonnais": 120.0,
-      "LOSC Lille": 9.0,
-      "RC Lens": 4.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 88.0,
+      "Paris Saint-Germain": 54.5,
+      "AJ Auxerre": 22.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 125.0,
+      "LOSC Lille": 21.0
     }
   },
   {
     "season": "2010-11",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 102.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 90.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 77.0,
-      "Olympique Marseille": 60.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 128.0,
-      "LOSC Lille": 9.0,
-      "RC Lens": 4.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 93.0,
+      "Paris Saint-Germain": 54.5,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 134.0,
+      "LOSC Lille": 21.0
     }
   },
   {
     "season": "2011-12",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 102.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 101.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 77.0,
-      "Olympique Marseille": 65.0,
-      "Paris Saint-Germain": 23.0,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 133.0,
-      "LOSC Lille": 14.0,
-      "RC Lens": 4.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 93.0,
+      "Paris Saint-Germain": 54.5,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 144.5,
+      "LOSC Lille": 26.0
     }
   },
   {
     "season": "2012-13",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 102.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 101.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 77.0,
-      "Olympique Marseille": 65.0,
-      "Paris Saint-Germain": 36.0,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 133.0,
-      "LOSC Lille": 14.0,
-      "RC Lens": 4.0,
-      "Montpellier HSC": 1.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 93.0,
+      "Paris Saint-Germain": 71.5,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 144.5,
+      "LOSC Lille": 29.0,
+      "Montpellier HSC": 2.0
     }
   },
   {
     "season": "2013-14",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 102.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 101.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 77.0,
-      "Olympique Marseille": 72.0,
-      "Paris Saint-Germain": 50.0,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 133.0,
-      "LOSC Lille": 14.0,
-      "RC Lens": 4.0,
-      "Montpellier HSC": 1.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 93.0,
+      "Paris Saint-Germain": 88.5,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 146.5,
+      "LOSC Lille": 29.0,
+      "Montpellier HSC": 2.0
     }
   },
   {
     "season": "2014-15",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 115.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 101.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 77.0,
-      "Olympique Marseille": 72.0,
-      "Paris Saint-Germain": 65.0,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 133.0,
-      "LOSC Lille": 14.0,
-      "RC Lens": 4.0,
-      "Montpellier HSC": 1.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 93.0,
+      "Paris Saint-Germain": 101.5,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 146.5,
+      "LOSC Lille": 30.5,
+      "Montpellier HSC": 2.0
     }
   },
   {
     "season": "2015-16",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 15.0,
+      "AS Saint-Étienne": 50.0,
+      "AS Monaco": 118.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 101.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 83.0,
-      "Olympique Marseille": 72.0,
-      "Paris Saint-Germain": 81.0,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 133.0,
-      "LOSC Lille": 14.0,
-      "RC Lens": 4.0,
-      "Montpellier HSC": 1.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 93.0,
+      "Paris Saint-Germain": 117.5,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 149.5,
+      "LOSC Lille": 30.5,
+      "Montpellier HSC": 2.0
     }
   },
   {
     "season": "2016-17",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 17.0,
+      "AS Saint-Étienne": 59.0,
+      "AS Monaco": 124.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 101.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 104.0,
-      "Olympique Marseille": 72.0,
-      "Paris Saint-Germain": 92.0,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 133.0,
-      "LOSC Lille": 14.0,
-      "RC Lens": 4.0,
-      "Montpellier HSC": 1.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 93.0,
+      "Paris Saint-Germain": 123.5,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 161.5,
+      "LOSC Lille": 30.5,
+      "Montpellier HSC": 2.0
     }
   },
   {
     "season": "2017-18",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 24.5,
+      "AS Saint-Étienne": 59.0,
+      "AS Monaco": 125.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 118.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 104.0,
-      "Olympique Marseille": 72.0,
-      "Paris Saint-Germain": 104.0,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 150.0,
-      "LOSC Lille": 14.0,
-      "RC Lens": 4.0,
-      "Montpellier HSC": 1.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 93.5,
+      "Paris Saint-Germain": 126.5,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 172.5,
+      "LOSC Lille": 30.5,
+      "Montpellier HSC": 2.0
     }
   },
   {
     "season": "2018-19",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 24.5,
+      "AS Saint-Étienne": 59.0,
+      "AS Monaco": 126.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 119.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 104.0,
-      "Olympique Marseille": 72.0,
-      "Paris Saint-Germain": 116.0,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 156.0,
-      "LOSC Lille": 14.0,
-      "RC Lens": 4.0,
-      "Montpellier HSC": 1.0
+      "RC Strasbourg": 24.0,
+      "Girondins de Bordeaux": 99.5,
+      "Paris Saint-Germain": 132.5,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 176.5,
+      "LOSC Lille": 30.5,
+      "Montpellier HSC": 2.0,
+      "Stade Rennais": 9.0
     }
   },
   {
     "season": "2019-20",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 32.5,
+      "OGC Nice": 24.5,
+      "AS Saint-Étienne": 60.0,
+      "AS Monaco": 126.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 119.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 104.0,
-      "Olympique Marseille": 72.0,
-      "Paris Saint-Germain": 137.0,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 170.0,
-      "LOSC Lille": 14.0,
-      "RC Lens": 4.0,
-      "Montpellier HSC": 1.0
+      "RC Strasbourg": 26.0,
+      "Girondins de Bordeaux": 99.5,
+      "Paris Saint-Germain": 145.5,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 186.5,
+      "LOSC Lille": 31.5,
+      "Montpellier HSC": 2.0,
+      "Stade Rennais": 12.0
     }
   },
   {
     "season": "2020-21",
     "scores": {
-      "Stade de Reims": 28.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 35.5,
+      "OGC Nice": 26.5,
+      "AS Saint-Étienne": 60.0,
+      "AS Monaco": 126.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 121.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 104.0,
-      "Olympique Marseille": 72.0,
-      "Paris Saint-Germain": 153.0,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 178.0,
-      "LOSC Lille": 14.0,
-      "RC Lens": 4.0,
-      "Montpellier HSC": 1.0,
-      "Stade Rennais": 3.0
+      "RC Strasbourg": 26.0,
+      "Girondins de Bordeaux": 99.5,
+      "Paris Saint-Germain": 147.5,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 194.5,
+      "LOSC Lille": 38.5,
+      "Montpellier HSC": 2.0,
+      "Stade Rennais": 13.0
     }
   },
   {
     "season": "2021-22",
     "scores": {
-      "Stade de Reims": 29.0,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 36.5,
+      "OGC Nice": 26.5,
+      "AS Saint-Étienne": 60.0,
+      "AS Monaco": 131.0,
+      "FC Nantes": 40.5,
+      "Olympique Marseille": 132.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 110.0,
-      "Olympique Marseille": 77.0,
-      "Paris Saint-Germain": 164.5,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 183.0,
-      "LOSC Lille": 18.0,
-      "RC Lens": 4.0,
-      "Montpellier HSC": 1.0,
-      "Stade Rennais": 3.0
+      "RC Strasbourg": 26.0,
+      "Girondins de Bordeaux": 99.5,
+      "Paris Saint-Germain": 152.0,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 201.5,
+      "LOSC Lille": 43.0,
+      "Montpellier HSC": 2.0,
+      "Stade Rennais": 17.5
     }
   },
   {
     "season": "2022-23",
     "scores": {
-      "Stade de Reims": 29.0,
-      "OGC Nice": 14.5,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 36.5,
+      "OGC Nice": 33.5,
+      "AS Saint-Étienne": 60.0,
+      "AS Monaco": 139.0,
+      "FC Nantes": 47.5,
+      "Olympique Marseille": 134.5,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 115.0,
-      "Olympique Marseille": 81.0,
-      "Paris Saint-Germain": 176.0,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 183.0,
-      "LOSC Lille": 18.0,
-      "RC Lens": 4.0,
-      "Montpellier HSC": 1.0,
-      "Stade Rennais": 8.0
+      "RC Strasbourg": 26.0,
+      "Girondins de Bordeaux": 99.5,
+      "Paris Saint-Germain": 156.5,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 12.0,
+      "Olympique Lyonnais": 201.5,
+      "LOSC Lille": 44.0,
+      "Montpellier HSC": 2.0,
+      "Stade Rennais": 25.5
     }
   },
   {
     "season": "2023-24",
     "scores": {
-      "Stade de Reims": 29.0,
-      "OGC Nice": 14.5,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 36.5,
+      "OGC Nice": 33.5,
+      "AS Saint-Étienne": 60.0,
+      "AS Monaco": 144.0,
+      "FC Nantes": 47.5,
+      "Olympique Marseille": 147.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 120.0,
-      "Olympique Marseille": 88.0,
-      "Paris Saint-Germain": 194.5,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 183.0,
-      "LOSC Lille": 27.0,
-      "RC Lens": 8.0,
-      "Montpellier HSC": 1.0,
-      "Stade Rennais": 17.5,
-      "Toulouse FC": 13.0
+      "RC Strasbourg": 26.0,
+      "Girondins de Bordeaux": 99.5,
+      "Paris Saint-Germain": 168.0,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 19.0,
+      "Olympique Lyonnais": 201.5,
+      "LOSC Lille": 61.0,
+      "Toulouse FC": 20.0,
+      "Montpellier HSC": 2.0,
+      "Stade Rennais": 31.5
     }
   },
   {
     "season": "2024-25",
     "scores": {
-      "Stade de Reims": 29.0,
-      "OGC Nice": 16.5,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 36.5,
+      "OGC Nice": 34.5,
+      "AS Saint-Étienne": 60.0,
+      "AS Monaco": 147.0,
+      "FC Nantes": 47.5,
+      "Olympique Marseille": 147.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 18.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 126.0,
-      "Olympique Marseille": 88.0,
-      "Paris Saint-Germain": 211.5,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 183.0,
-      "LOSC Lille": 39.5,
-      "RC Lens": 10.0,
-      "Montpellier HSC": 1.0,
-      "Stade Rennais": 20.5,
-      "Toulouse FC": 19.0,
-      "Stade Brestois": 6.0
+      "RC Strasbourg": 26.0,
+      "Girondins de Bordeaux": 99.5,
+      "Paris Saint-Germain": 184.0,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 21.0,
+      "Olympique Lyonnais": 208.5,
+      "LOSC Lille": 67.5,
+      "Toulouse FC": 26.0,
+      "Montpellier HSC": 2.0,
+      "Stade Rennais": 34.5,
+      "Stade Brestois": 3.0
     }
   },
   {
     "season": "2025-26",
     "scores": {
-      "Stade de Reims": 29.0,
-      "OGC Nice": 18.5,
-      "FC Nantes": 30.0,
-      "AS Saint-Étienne": 73.0,
+      "Stade de Reims": 36.5,
+      "OGC Nice": 36.5,
+      "AS Saint-Étienne": 60.0,
+      "AS Monaco": 150.0,
+      "FC Nantes": 47.5,
+      "Olympique Marseille": 149.0,
       "SC Bastia": 20.0,
-      "RC Strasbourg": 30.0,
-      "Girondins de Bordeaux": 92.0,
-      "AS Monaco": 135.0,
-      "Olympique Marseille": 94.0,
-      "Paris Saint-Germain": 228.5,
-      "AJ Auxerre": 23.0,
-      "Olympique Lyonnais": 198.0,
-      "LOSC Lille": 48.5,
-      "RC Lens": 10.0,
-      "Montpellier HSC": 1.0,
-      "Stade Rennais": 20.5,
-      "Toulouse FC": 19.0,
-      "Stade Brestois": 6.0
+      "RC Strasbourg": 35.0,
+      "Girondins de Bordeaux": 99.5,
+      "Paris Saint-Germain": 194.0,
+      "AJ Auxerre": 25.5,
+      "RC Lens": 21.0,
+      "Olympique Lyonnais": 211.5,
+      "LOSC Lille": 72.5,
+      "Toulouse FC": 26.0,
+      "Montpellier HSC": 2.0,
+      "Stade Rennais": 34.5,
+      "Stade Brestois": 3.0
     }
   }
 ]

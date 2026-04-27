@@ -1,43 +1,4 @@
 {
-  "Paris Saint-Germain": {
-    "name": "Paris Saint-Germain",
-    "short": "PSG",
-    "city": "Paris",
-    "founded": 1970,
-    "logo_url": "images/logos/psg.svg",
-    "color": "#004170",
-    "color2": "#DA291C",
-    "total_matches": 135,
-    "wins": 86,
-    "draws": 19,
-    "losses": 30,
-    "goals_for": 86,
-    "goals_against": 30,
-    "total_uefa_points": 191.0,
-    "pts_per_match": 1.415,
-    "by_competition": {
-      "UCL": {
-        "matches": 131,
-        "wins": 83,
-        "draws": 18,
-        "losses": 30,
-        "uefa_points": 184.0,
-        "label": "Ligue des Champions",
-        "color": "#1A4B9B"
-      },
-      "CWC": {
-        "matches": 4,
-        "wins": 3,
-        "draws": 1,
-        "losses": 0,
-        "uefa_points": 7.0,
-        "label": "Coupe des Vainqueurs de Coupe",
-        "color": "#9B59B6"
-      }
-    },
-    "seasons_count": 16,
-    "best_round": "F"
-  },
   "Olympique Lyonnais": {
     "name": "Olympique Lyonnais",
     "short": "OL",
@@ -46,92 +7,83 @@
     "logo_url": "images/logos/ol.svg",
     "color": "#032f75",
     "color2": "#FFFFFF",
-    "total_matches": 151,
-    "wins": 80,
-    "draws": 21,
-    "losses": 50,
-    "goals_for": 80,
-    "goals_against": 50,
-    "total_uefa_points": 173.0,
-    "pts_per_match": 1.146,
+    "total_matches": 164,
+    "wins": 77,
+    "draws": 36,
+    "losses": 51,
+    "goals_for": 274,
+    "goals_against": 197,
+    "total_uefa_points": 180.5,
+    "pts_per_match": 1.101,
     "by_competition": {
       "UCL": {
-        "matches": 126,
-        "wins": 64,
-        "draws": 20,
-        "losses": 42,
-        "uefa_points": 140.0,
+        "matches": 143,
+        "wins": 67,
+        "draws": 32,
+        "losses": 44,
+        "uefa_points": 156.5,
         "label": "Ligue des Champions",
         "color": "#1A4B9B"
       },
       "UEL": {
-        "matches": 25,
-        "wins": 16,
-        "draws": 1,
-        "losses": 8,
-        "uefa_points": 33.0,
+        "matches": 21,
+        "wins": 10,
+        "draws": 4,
+        "losses": 7,
+        "uefa_points": 24.0,
         "label": "Ligue Europa",
         "color": "#E67E22"
       }
     },
-    "seasons_count": 19,
-    "best_round": "SF"
+    "seasons_count": 23,
+    "best_round": "F"
   },
-  "AS Monaco": {
-    "name": "AS Monaco",
-    "short": "ASM",
-    "city": "Monaco",
-    "founded": 1924,
-    "logo_url": "images/logos/asm.svg",
-    "color": "#EF3340",
-    "color2": "#FFFFFF",
-    "total_matches": 118,
-    "wins": 52,
+  "Paris Saint-Germain": {
+    "name": "Paris Saint-Germain",
+    "short": "PSG",
+    "city": "Paris",
+    "founded": 1970,
+    "logo_url": "images/logos/psg.svg",
+    "color": "#004170",
+    "color2": "#DA291C",
+    "total_matches": 127,
+    "wins": 67,
     "draws": 26,
-    "losses": 40,
-    "goals_for": 52,
-    "goals_against": 40,
-    "total_uefa_points": 120.0,
-    "pts_per_match": 1.017,
+    "losses": 34,
+    "goals_for": 224,
+    "goals_against": 134,
+    "total_uefa_points": 156.5,
+    "pts_per_match": 1.232,
     "by_competition": {
+      "CWC": {
+        "matches": 4,
+        "wins": 3,
+        "draws": 1,
+        "losses": 0,
+        "uefa_points": 7.0,
+        "label": "Coupe des Vainqueurs de Coupe",
+        "color": "#9B59B6"
+      },
       "CC": {
-        "matches": 11,
-        "wins": 4,
-        "draws": 2,
-        "losses": 5,
-        "uefa_points": 10.0,
+        "matches": 2,
+        "wins": 0,
+        "draws": 1,
+        "losses": 1,
+        "uefa_points": 0.5,
         "label": "Coupe des Clubs Champions",
         "color": "#FFD700"
       },
       "UCL": {
-        "matches": 89,
-        "wins": 42,
-        "draws": 21,
-        "losses": 26,
-        "uefa_points": 95.0,
+        "matches": 121,
+        "wins": 64,
+        "draws": 24,
+        "losses": 33,
+        "uefa_points": 149.0,
         "label": "Ligue des Champions",
         "color": "#1A4B9B"
-      },
-      "UEL": {
-        "matches": 12,
-        "wins": 4,
-        "draws": 2,
-        "losses": 6,
-        "uefa_points": 10.0,
-        "label": "Ligue Europa",
-        "color": "#E67E22"
-      },
-      "UECL": {
-        "matches": 6,
-        "wins": 2,
-        "draws": 1,
-        "losses": 3,
-        "uefa_points": 5.0,
-        "label": "Ligue Europa Conférence",
-        "color": "#27AE60"
       }
     },
-    "seasons_count": 15,
+    "seasons_count": 20,
     "best_round": "F"
   },
   "Olympique Marseille": {
@@ -142,30 +94,87 @@
     "logo_url": "images/logos/om.svg",
     "color": "#2CBFEF",
     "color2": "#FFFFFF",
-    "total_matches": 80,
-    "wins": 39,
-    "draws": 10,
-    "losses": 31,
-    "goals_for": 39,
-    "goals_against": 31,
-    "total_uefa_points": 82.0,
-    "pts_per_match": 1.025,
+    "total_matches": 135,
+    "wins": 60,
+    "draws": 25,
+    "losses": 50,
+    "goals_for": 223,
+    "goals_against": 164,
+    "total_uefa_points": 127.0,
+    "pts_per_match": 0.941,
     "by_competition": {
       "CC": {
-        "matches": 23,
-        "wins": 13,
-        "draws": 4,
+        "matches": 27,
+        "wins": 15,
+        "draws": 6,
         "losses": 6,
-        "uefa_points": 30.0,
+        "uefa_points": 27.5,
         "label": "Coupe des Clubs Champions",
         "color": "#FFD700"
       },
       "UCL": {
-        "matches": 45,
-        "wins": 21,
-        "draws": 4,
-        "losses": 20,
-        "uefa_points": 40.0,
+        "matches": 82,
+        "wins": 31,
+        "draws": 14,
+        "losses": 37,
+        "uefa_points": 68.5,
+        "label": "Ligue des Champions",
+        "color": "#1A4B9B"
+      },
+      "UEL": {
+        "matches": 22,
+        "wins": 11,
+        "draws": 5,
+        "losses": 6,
+        "uefa_points": 25.0,
+        "label": "Ligue Europa",
+        "color": "#E67E22"
+      },
+      "UECL": {
+        "matches": 4,
+        "wins": 3,
+        "draws": 0,
+        "losses": 1,
+        "uefa_points": 6.0,
+        "label": "Ligue Europa Conférence",
+        "color": "#27AE60"
+      }
+    },
+    "seasons_count": 21,
+    "best_round": "F"
+  },
+  "AS Monaco": {
+    "name": "AS Monaco",
+    "short": "ASM",
+    "city": "Monaco",
+    "founded": 1924,
+    "logo_url": "images/logos/asm.svg",
+    "color": "#EF3340",
+    "color2": "#FFFFFF",
+    "total_matches": 142,
+    "wins": 55,
+    "draws": 32,
+    "losses": 55,
+    "goals_for": 196,
+    "goals_against": 150,
+    "total_uefa_points": 126.0,
+    "pts_per_match": 0.887,
+    "by_competition": {
+      "CC": {
+        "matches": 29,
+        "wins": 8,
+        "draws": 7,
+        "losses": 14,
+        "uefa_points": 18.0,
+        "label": "Coupe des Clubs Champions",
+        "color": "#FFD700"
+      },
+      "UCL": {
+        "matches": 100,
+        "wins": 43,
+        "draws": 21,
+        "losses": 36,
+        "uefa_points": 96.0,
         "label": "Ligue des Champions",
         "color": "#1A4B9B"
       },
@@ -179,16 +188,16 @@
         "color": "#27AE60"
       },
       "UEL": {
-        "matches": 6,
-        "wins": 3,
-        "draws": 1,
+        "matches": 7,
+        "wins": 2,
+        "draws": 3,
         "losses": 2,
         "uefa_points": 7.0,
         "label": "Ligue Europa",
         "color": "#E67E22"
       }
     },
-    "seasons_count": 11,
+    "seasons_count": 25,
     "best_round": "F"
   },
   "Girondins de Bordeaux": {
@@ -199,44 +208,101 @@
     "logo_url": "images/logos/gdb.svg",
     "color": "#1D3F8F",
     "color2": "#FFFFFF",
-    "total_matches": 66,
-    "wins": 33,
-    "draws": 13,
-    "losses": 20,
-    "goals_for": 33,
-    "goals_against": 20,
-    "total_uefa_points": 75.0,
-    "pts_per_match": 1.136,
+    "total_matches": 82,
+    "wins": 37,
+    "draws": 23,
+    "losses": 22,
+    "goals_for": 79,
+    "goals_against": 66,
+    "total_uefa_points": 87.5,
+    "pts_per_match": 1.067,
     "by_competition": {
-      "CC": {
-        "matches": 11,
-        "wins": 7,
-        "draws": 1,
-        "losses": 3,
-        "uefa_points": 13.0,
-        "label": "Coupe des Clubs Champions",
-        "color": "#FFD700"
-      },
       "UEFA": {
-        "matches": 19,
-        "wins": 12,
-        "draws": 4,
-        "losses": 3,
-        "uefa_points": 28.0,
+        "matches": 12,
+        "wins": 7,
+        "draws": 3,
+        "losses": 2,
+        "uefa_points": 17.0,
         "label": "Coupe UEFA",
         "color": "#E67E22"
       },
       "UCL": {
-        "matches": 36,
-        "wins": 14,
-        "draws": 8,
-        "losses": 14,
-        "uefa_points": 34.0,
+        "matches": 47,
+        "wins": 20,
+        "draws": 11,
+        "losses": 16,
+        "uefa_points": 49.0,
         "label": "Ligue des Champions",
         "color": "#1A4B9B"
+      },
+      "CC": {
+        "matches": 16,
+        "wins": 6,
+        "draws": 7,
+        "losses": 3,
+        "uefa_points": 15.0,
+        "label": "Coupe des Clubs Champions",
+        "color": "#FFD700"
+      },
+      "UEL": {
+        "matches": 7,
+        "wins": 4,
+        "draws": 2,
+        "losses": 1,
+        "uefa_points": 6.5,
+        "label": "Ligue Europa",
+        "color": "#E67E22"
       }
     },
-    "seasons_count": 10,
+    "seasons_count": 14,
+    "best_round": "F"
+  },
+  "LOSC Lille": {
+    "name": "LOSC Lille",
+    "short": "LOSC",
+    "city": "Lille",
+    "founded": 1944,
+    "logo_url": "images/logos/losc.svg",
+    "color": "#D0021B",
+    "color2": "#FFFFFF",
+    "total_matches": 79,
+    "wins": 26,
+    "draws": 19,
+    "losses": 34,
+    "goals_for": 87,
+    "goals_against": 95,
+    "total_uefa_points": 61.5,
+    "pts_per_match": 0.778,
+    "by_competition": {
+      "UCL": {
+        "matches": 55,
+        "wins": 15,
+        "draws": 16,
+        "losses": 24,
+        "uefa_points": 38.5,
+        "label": "Ligue des Champions",
+        "color": "#1A4B9B"
+      },
+      "UEL": {
+        "matches": 17,
+        "wins": 7,
+        "draws": 1,
+        "losses": 9,
+        "uefa_points": 15.0,
+        "label": "Ligue Europa",
+        "color": "#E67E22"
+      },
+      "UECL": {
+        "matches": 7,
+        "wins": 4,
+        "draws": 2,
+        "losses": 1,
+        "uefa_points": 8.0,
+        "label": "Ligue Europa Conférence",
+        "color": "#27AE60"
+      }
+    },
+    "seasons_count": 16,
     "best_round": "F"
   },
   "AS Saint-Étienne": {
@@ -248,23 +314,14 @@
     "color": "#00A046",
     "color2": "#FFFFFF",
     "total_matches": 54,
-    "wins": 34,
-    "draws": 6,
-    "losses": 14,
-    "goals_for": 34,
-    "goals_against": 14,
-    "total_uefa_points": 62.0,
-    "pts_per_match": 1.148,
+    "wins": 26,
+    "draws": 9,
+    "losses": 19,
+    "goals_for": 59,
+    "goals_against": 54,
+    "total_uefa_points": 47.0,
+    "pts_per_match": 0.87,
     "by_competition": {
-      "CC": {
-        "matches": 48,
-        "wins": 30,
-        "draws": 6,
-        "losses": 12,
-        "uefa_points": 54.0,
-        "label": "Coupe des Clubs Champions",
-        "color": "#FFD700"
-      },
       "UEFA": {
         "matches": 6,
         "wins": 4,
@@ -273,105 +330,27 @@
         "uefa_points": 8.0,
         "label": "Coupe UEFA",
         "color": "#E67E22"
-      }
-    },
-    "seasons_count": 9,
-    "best_round": "F"
-  },
-  "LOSC Lille": {
-    "name": "LOSC Lille",
-    "short": "LOSC",
-    "city": "Lille",
-    "founded": 1944,
-    "logo_url": "images/logos/losc.svg",
-    "color": "#D0021B",
-    "color2": "#FFFFFF",
-    "total_matches": 49,
-    "wins": 18,
-    "draws": 7,
-    "losses": 24,
-    "goals_for": 18,
-    "goals_against": 24,
-    "total_uefa_points": 43.0,
-    "pts_per_match": 0.878,
-    "by_competition": {
-      "UCL": {
-        "matches": 28,
-        "wins": 7,
-        "draws": 7,
-        "losses": 14,
-        "uefa_points": 21.0,
-        "label": "Ligue des Champions",
-        "color": "#1A4B9B"
       },
-      "UEFA": {
-        "matches": 4,
-        "wins": 3,
-        "draws": 0,
-        "losses": 1,
-        "uefa_points": 6.0,
-        "label": "Coupe UEFA",
-        "color": "#E67E22"
+      "CC": {
+        "matches": 41,
+        "wins": 19,
+        "draws": 7,
+        "losses": 15,
+        "uefa_points": 33.0,
+        "label": "Coupe des Clubs Champions",
+        "color": "#FFD700"
       },
       "UEL": {
-        "matches": 16,
-        "wins": 8,
-        "draws": 0,
-        "losses": 8,
-        "uefa_points": 16.0,
+        "matches": 7,
+        "wins": 3,
+        "draws": 2,
+        "losses": 2,
+        "uefa_points": 6.0,
         "label": "Ligue Europa",
         "color": "#E67E22"
-      },
-      "UECL": {
-        "matches": 1,
-        "wins": 0,
-        "draws": 0,
-        "losses": 1,
-        "uefa_points": 0.0,
-        "label": "Ligue Europa Conférence",
-        "color": "#27AE60"
       }
     },
-    "seasons_count": 9,
-    "best_round": "QF"
-  },
-  "RC Strasbourg": {
-    "name": "RC Strasbourg",
-    "short": "RCSA",
-    "city": "Strasbourg",
-    "founded": 1906,
-    "logo_url": "images/logos/rcsa.svg",
-    "color": "#004EA0",
-    "color2": "#FFFFFF",
-    "total_matches": 22,
-    "wins": 13,
-    "draws": 3,
-    "losses": 6,
-    "goals_for": 13,
-    "goals_against": 6,
-    "total_uefa_points": 25.0,
-    "pts_per_match": 1.136,
-    "by_competition": {
-      "UEFA": {
-        "matches": 9,
-        "wins": 6,
-        "draws": 1,
-        "losses": 2,
-        "uefa_points": 13.0,
-        "label": "Coupe UEFA",
-        "color": "#E67E22"
-      },
-      "UECL": {
-        "matches": 13,
-        "wins": 7,
-        "draws": 2,
-        "losses": 4,
-        "uefa_points": 12.0,
-        "label": "Ligue Europa Conférence",
-        "color": "#27AE60"
-      }
-    },
-    "seasons_count": 3,
+    "seasons_count": 14,
     "best_round": "F"
   },
   "FC Nantes": {
@@ -382,36 +361,45 @@
     "logo_url": "images/logos/fcn.svg",
     "color": "#FFCD00",
     "color2": "#000000",
-    "total_matches": 22,
-    "wins": 13,
-    "draws": 3,
-    "losses": 6,
-    "goals_for": 13,
-    "goals_against": 6,
-    "total_uefa_points": 25.0,
-    "pts_per_match": 1.136,
+    "total_matches": 49,
+    "wins": 15,
+    "draws": 17,
+    "losses": 17,
+    "goals_for": 58,
+    "goals_against": 61,
+    "total_uefa_points": 40.5,
+    "pts_per_match": 0.827,
     "by_competition": {
+      "UCL": {
+        "matches": 28,
+        "wins": 9,
+        "draws": 10,
+        "losses": 9,
+        "uefa_points": 28.0,
+        "label": "Ligue des Champions",
+        "color": "#1A4B9B"
+      },
       "CC": {
-        "matches": 8,
-        "wins": 6,
-        "draws": 0,
-        "losses": 2,
-        "uefa_points": 8.0,
+        "matches": 18,
+        "wins": 5,
+        "draws": 6,
+        "losses": 7,
+        "uefa_points": 9.5,
         "label": "Coupe des Clubs Champions",
         "color": "#FFD700"
       },
-      "UCL": {
-        "matches": 14,
-        "wins": 7,
-        "draws": 3,
-        "losses": 4,
-        "uefa_points": 17.0,
-        "label": "Ligue des Champions",
-        "color": "#1A4B9B"
+      "UEL": {
+        "matches": 3,
+        "wins": 1,
+        "draws": 1,
+        "losses": 1,
+        "uefa_points": 3.0,
+        "label": "Ligue Europa",
+        "color": "#E67E22"
       }
     },
-    "seasons_count": 4,
-    "best_round": "SF"
+    "seasons_count": 10,
+    "best_round": "F"
   },
   "Stade de Reims": {
     "name": "Stade de Reims",
@@ -421,24 +409,15 @@
     "logo_url": "images/logos/sdr.svg",
     "color": "#DA291C",
     "color2": "#FFFFFF",
-    "total_matches": 17,
-    "wins": 12,
-    "draws": 0,
-    "losses": 5,
-    "goals_for": 12,
-    "goals_against": 5,
-    "total_uefa_points": 21.0,
-    "pts_per_match": 1.235,
+    "total_matches": 28,
+    "wins": 16,
+    "draws": 4,
+    "losses": 8,
+    "goals_for": 65,
+    "goals_against": 31,
+    "total_uefa_points": 29.5,
+    "pts_per_match": 1.054,
     "by_competition": {
-      "CC": {
-        "matches": 15,
-        "wins": 11,
-        "draws": 0,
-        "losses": 4,
-        "uefa_points": 20.0,
-        "label": "Coupe des Clubs Champions",
-        "color": "#FFD700"
-      },
       "UECL": {
         "matches": 2,
         "wins": 1,
@@ -447,10 +426,172 @@
         "uefa_points": 1.0,
         "label": "Ligue Europa Conférence",
         "color": "#27AE60"
+      },
+      "CC": {
+        "matches": 24,
+        "wins": 14,
+        "draws": 3,
+        "losses": 7,
+        "uefa_points": 25.5,
+        "label": "Coupe des Clubs Champions",
+        "color": "#FFD700"
+      },
+      "UEL": {
+        "matches": 2,
+        "wins": 1,
+        "draws": 1,
+        "losses": 0,
+        "uefa_points": 3.0,
+        "label": "Ligue Europa",
+        "color": "#E67E22"
+      }
+    },
+    "seasons_count": 6,
+    "best_round": "F"
+  },
+  "OGC Nice": {
+    "name": "OGC Nice",
+    "short": "OGCN",
+    "city": "Nice",
+    "founded": 1904,
+    "logo_url": "images/logos/ogcn.svg",
+    "color": "#CF3237",
+    "color2": "#000000",
+    "total_matches": 34,
+    "wins": 14,
+    "draws": 6,
+    "losses": 14,
+    "goals_for": 56,
+    "goals_against": 54,
+    "total_uefa_points": 29.5,
+    "pts_per_match": 0.868,
+    "by_competition": {
+      "CC": {
+        "matches": 14,
+        "wins": 7,
+        "draws": 2,
+        "losses": 5,
+        "uefa_points": 13.0,
+        "label": "Coupe des Clubs Champions",
+        "color": "#FFD700"
+      },
+      "UCL": {
+        "matches": 3,
+        "wins": 0,
+        "draws": 1,
+        "losses": 2,
+        "uefa_points": 0.5,
+        "label": "Ligue des Champions",
+        "color": "#1A4B9B"
+      },
+      "UEL": {
+        "matches": 11,
+        "wins": 4,
+        "draws": 2,
+        "losses": 5,
+        "uefa_points": 10.0,
+        "label": "Ligue Europa",
+        "color": "#E67E22"
+      },
+      "UECL": {
+        "matches": 6,
+        "wins": 3,
+        "draws": 1,
+        "losses": 2,
+        "uefa_points": 6.0,
+        "label": "Ligue Europa Conférence",
+        "color": "#27AE60"
+      }
+    },
+    "seasons_count": 8,
+    "best_round": "F"
+  },
+  "RC Strasbourg": {
+    "name": "RC Strasbourg",
+    "short": "RCSA",
+    "city": "Strasbourg",
+    "founded": 1906,
+    "logo_url": "images/logos/rcsa.svg",
+    "color": "#004EA0",
+    "color2": "#FFFFFF",
+    "total_matches": 23,
+    "wins": 15,
+    "draws": 3,
+    "losses": 5,
+    "goals_for": 33,
+    "goals_against": 21,
+    "total_uefa_points": 28.0,
+    "pts_per_match": 1.217,
+    "by_competition": {
+      "UEFA": {
+        "matches": 9,
+        "wins": 6,
+        "draws": 1,
+        "losses": 2,
+        "uefa_points": 13.0,
+        "label": "Coupe UEFA",
+        "color": "#E67E22"
+      },
+      "CC": {
+        "matches": 6,
+        "wins": 3,
+        "draws": 1,
+        "losses": 2,
+        "uefa_points": 5.0,
+        "label": "Coupe des Clubs Champions",
+        "color": "#FFD700"
+      },
+      "UEL": {
+        "matches": 3,
+        "wins": 2,
+        "draws": 0,
+        "losses": 1,
+        "uefa_points": 2.0,
+        "label": "Ligue Europa",
+        "color": "#E67E22"
+      },
+      "UECL": {
+        "matches": 5,
+        "wins": 4,
+        "draws": 1,
+        "losses": 0,
+        "uefa_points": 8.0,
+        "label": "Ligue Europa Conférence",
+        "color": "#27AE60"
       }
     },
     "seasons_count": 5,
     "best_round": "F"
+  },
+  "AJ Auxerre": {
+    "name": "AJ Auxerre",
+    "short": "AJA",
+    "city": "Auxerre",
+    "founded": 1905,
+    "logo_url": "images/logos/aja.svg",
+    "color": "#005BAC",
+    "color2": "#FFFFFF",
+    "total_matches": 30,
+    "wins": 11,
+    "draws": 4,
+    "losses": 15,
+    "goals_for": 21,
+    "goals_against": 33,
+    "total_uefa_points": 23.5,
+    "pts_per_match": 0.783,
+    "by_competition": {
+      "UCL": {
+        "matches": 30,
+        "wins": 11,
+        "draws": 4,
+        "losses": 15,
+        "uefa_points": 23.5,
+        "label": "Ligue des Champions",
+        "color": "#1A4B9B"
+      }
+    },
+    "seasons_count": 4,
+    "best_round": "QF"
   },
   "Stade Rennais": {
     "name": "Stade Rennais",
@@ -462,81 +603,42 @@
     "color2": "#000000",
     "total_matches": 27,
     "wins": 8,
-    "draws": 4,
-    "losses": 15,
-    "goals_for": 8,
-    "goals_against": 15,
-    "total_uefa_points": 20.0,
-    "pts_per_match": 0.741,
+    "draws": 7,
+    "losses": 12,
+    "goals_for": 38,
+    "goals_against": 34,
+    "total_uefa_points": 22.0,
+    "pts_per_match": 0.815,
     "by_competition": {
+      "UEL": {
+        "matches": 21,
+        "wins": 6,
+        "draws": 5,
+        "losses": 10,
+        "uefa_points": 17.0,
+        "label": "Ligue Europa",
+        "color": "#E67E22"
+      },
       "UCL": {
-        "matches": 6,
-        "wins": 1,
+        "matches": 2,
+        "wins": 0,
         "draws": 1,
-        "losses": 4,
-        "uefa_points": 3.0,
+        "losses": 1,
+        "uefa_points": 1.0,
         "label": "Ligue des Champions",
         "color": "#1A4B9B"
       },
       "UECL": {
-        "matches": 13,
-        "wins": 6,
-        "draws": 2,
-        "losses": 5,
-        "uefa_points": 14.0,
+        "matches": 4,
+        "wins": 2,
+        "draws": 1,
+        "losses": 1,
+        "uefa_points": 4.0,
         "label": "Ligue Europa Conférence",
         "color": "#27AE60"
-      },
-      "UEL": {
-        "matches": 8,
-        "wins": 1,
-        "draws": 1,
-        "losses": 6,
-        "uefa_points": 3.0,
-        "label": "Ligue Europa",
-        "color": "#E67E22"
       }
     },
-    "seasons_count": 4,
-    "best_round": "R16"
-  },
-  "AJ Auxerre": {
-    "name": "AJ Auxerre",
-    "short": "AJA",
-    "city": "Auxerre",
-    "founded": 1905,
-    "logo_url": "images/logos/aja.svg",
-    "color": "#005BAC",
-    "color2": "#FFFFFF",
-    "total_matches": 20,
-    "wins": 9,
-    "draws": 3,
-    "losses": 8,
-    "goals_for": 9,
-    "goals_against": 8,
-    "total_uefa_points": 19.0,
-    "pts_per_match": 0.95,
-    "by_competition": {
-      "UEFA": {
-        "matches": 6,
-        "wins": 5,
-        "draws": 0,
-        "losses": 1,
-        "uefa_points": 10.0,
-        "label": "Coupe UEFA",
-        "color": "#E67E22"
-      },
-      "UCL": {
-        "matches": 14,
-        "wins": 4,
-        "draws": 3,
-        "losses": 7,
-        "uefa_points": 9.0,
-        "label": "Ligue des Champions",
-        "color": "#1A4B9B"
-      }
-    },
-    "seasons_count": 3,
+    "seasons_count": 7,
     "best_round": "F"
   },
   "Toulouse FC": {
@@ -547,14 +649,14 @@
     "logo_url": "images/logos/tfc.svg",
     "color": "#3E0081",
     "color2": "#FFFFFF",
-    "total_matches": 18,
-    "wins": 8,
-    "draws": 4,
-    "losses": 6,
-    "goals_for": 8,
-    "goals_against": 6,
-    "total_uefa_points": 18.0,
-    "pts_per_match": 1.0,
+    "total_matches": 24,
+    "wins": 9,
+    "draws": 5,
+    "losses": 10,
+    "goals_for": 12,
+    "goals_against": 15,
+    "total_uefa_points": 21.0,
+    "pts_per_match": 0.875,
     "by_competition": {
       "UECL": {
         "matches": 10,
@@ -566,74 +668,74 @@
         "color": "#27AE60"
       },
       "UEL": {
-        "matches": 8,
-        "wins": 2,
-        "draws": 2,
-        "losses": 4,
-        "uefa_points": 6.0,
-        "label": "Ligue Europa",
-        "color": "#E67E22"
-      }
-    },
-    "seasons_count": 2,
-    "best_round": "QF"
-  },
-  "OGC Nice": {
-    "name": "OGC Nice",
-    "short": "OGCN",
-    "city": "Nice",
-    "founded": 1904,
-    "logo_url": "images/logos/ogcn.svg",
-    "color": "#CF3237",
-    "color2": "#000000",
-    "total_matches": 29,
-    "wins": 9,
-    "draws": 1,
-    "losses": 19,
-    "goals_for": 9,
-    "goals_against": 19,
-    "total_uefa_points": 17.0,
-    "pts_per_match": 0.586,
-    "by_competition": {
-      "CC": {
-        "matches": 1,
-        "wins": 0,
-        "draws": 0,
-        "losses": 1,
-        "uefa_points": 0.0,
-        "label": "Coupe des Clubs Champions",
-        "color": "#FFD700"
-      },
-      "UECL": {
-        "matches": 11,
-        "wins": 7,
-        "draws": 1,
-        "losses": 3,
-        "uefa_points": 13.0,
-        "label": "Ligue Europa Conférence",
-        "color": "#27AE60"
-      },
-      "UEL": {
-        "matches": 16,
-        "wins": 2,
-        "draws": 0,
-        "losses": 14,
-        "uefa_points": 4.0,
+        "matches": 12,
+        "wins": 3,
+        "draws": 3,
+        "losses": 6,
+        "uefa_points": 9.0,
         "label": "Ligue Europa",
         "color": "#E67E22"
       },
       "UCL": {
-        "matches": 1,
+        "matches": 2,
         "wins": 0,
         "draws": 0,
-        "losses": 1,
+        "losses": 2,
         "uefa_points": 0.0,
         "label": "Ligue des Champions",
         "color": "#1A4B9B"
       }
     },
+    "seasons_count": 3,
+    "best_round": "F"
+  },
+  "RC Lens": {
+    "name": "RC Lens",
+    "short": "RCL",
+    "city": "Lens",
+    "founded": 1906,
+    "logo_url": "images/logos/rcl.svg",
+    "color": "#FFD700",
+    "color2": "#DA291C",
+    "total_matches": 25,
+    "wins": 5,
+    "draws": 7,
+    "losses": 13,
+    "goals_for": 23,
+    "goals_against": 31,
+    "total_uefa_points": 17.0,
+    "pts_per_match": 0.68,
+    "by_competition": {
+      "UEL": {
+        "matches": 9,
+        "wins": 0,
+        "draws": 2,
+        "losses": 7,
+        "uefa_points": 2.0,
+        "label": "Ligue Europa",
+        "color": "#E67E22"
+      },
+      "UCL": {
+        "matches": 15,
+        "wins": 5,
+        "draws": 5,
+        "losses": 5,
+        "uefa_points": 15.0,
+        "label": "Ligue des Champions",
+        "color": "#1A4B9B"
+      },
+      "UECL": {
+        "matches": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "uefa_points": 0.0,
+        "label": "Ligue Europa Conférence",
+        "color": "#27AE60"
+      }
+    },
     "seasons_count": 4,
-    "best_round": "SF"
+    "best_round": "F"
   },
   "SC Bastia": {
     "name": "SC Bastia",
@@ -665,45 +767,6 @@
     "seasons_count": 2,
     "best_round": "F"
   },
-  "RC Lens": {
-    "name": "RC Lens",
-    "short": "RCL",
-    "city": "Lens",
-    "founded": 1906,
-    "logo_url": "images/logos/rcl.svg",
-    "color": "#FFD700",
-    "color2": "#DA291C",
-    "total_matches": 20,
-    "wins": 2,
-    "draws": 6,
-    "losses": 12,
-    "goals_for": 2,
-    "goals_against": 12,
-    "total_uefa_points": 10.0,
-    "pts_per_match": 0.5,
-    "by_competition": {
-      "UCL": {
-        "matches": 12,
-        "wins": 2,
-        "draws": 4,
-        "losses": 6,
-        "uefa_points": 8.0,
-        "label": "Ligue des Champions",
-        "color": "#1A4B9B"
-      },
-      "UEL": {
-        "matches": 8,
-        "wins": 0,
-        "draws": 2,
-        "losses": 6,
-        "uefa_points": 2.0,
-        "label": "Ligue Europa",
-        "color": "#E67E22"
-      }
-    },
-    "seasons_count": 3,
-    "best_round": "group"
-  },
   "Stade Brestois": {
     "name": "Stade Brestois",
     "short": "SB29",
@@ -712,21 +775,21 @@
     "logo_url": "images/logos/sb29.svg",
     "color": "#FFFFFF",
     "color2": "#DA291C",
-    "total_matches": 8,
-    "wins": 2,
-    "draws": 2,
-    "losses": 4,
-    "goals_for": 2,
-    "goals_against": 4,
-    "total_uefa_points": 6.0,
-    "pts_per_match": 0.75,
+    "total_matches": 3,
+    "wins": 1,
+    "draws": 1,
+    "losses": 1,
+    "goals_for": 3,
+    "goals_against": 2,
+    "total_uefa_points": 3.0,
+    "pts_per_match": 1.0,
     "by_competition": {
       "UCL": {
-        "matches": 8,
-        "wins": 2,
-        "draws": 2,
-        "losses": 4,
-        "uefa_points": 6.0,
+        "matches": 3,
+        "wins": 1,
+        "draws": 1,
+        "losses": 1,
+        "uefa_points": 3.0,
         "label": "Ligue des Champions",
         "color": "#1A4B9B"
       }
@@ -744,19 +807,19 @@
     "color2": "#003087",
     "total_matches": 6,
     "wins": 0,
-    "draws": 1,
-    "losses": 5,
-    "goals_for": 0,
-    "goals_against": 5,
-    "total_uefa_points": 1.0,
-    "pts_per_match": 0.167,
+    "draws": 2,
+    "losses": 4,
+    "goals_for": 6,
+    "goals_against": 12,
+    "total_uefa_points": 2.0,
+    "pts_per_match": 0.333,
     "by_competition": {
       "UCL": {
         "matches": 6,
         "wins": 0,
-        "draws": 1,
-        "losses": 5,
-        "uefa_points": 1.0,
+        "draws": 2,
+        "losses": 4,
+        "uefa_points": 2.0,
         "label": "Ligue des Champions",
         "color": "#1A4B9B"
       }

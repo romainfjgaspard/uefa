@@ -202,6 +202,7 @@ header h1 {
 .comp-btn.uel.active { background: var(--accent2); border-color: var(--accent2); }
 .comp-btn.cwc.active { background: #9B59B6; border-color: #9B59B6; }
 .comp-btn.uecl.active { background: var(--accent3); border-color: var(--accent3); }
+.comp-sub { font-size: 0.65rem; opacity: 0.75; margin-left: 2px; }
 
 /* === TABLE === */
 .table-wrapper {
