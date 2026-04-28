@@ -150,17 +150,36 @@ function getFilteredStats() {
     // Filtre recherche
     if (state.search && !clubName.toLowerCase().includes(state.search)) continue;
 
+    // Utiliser données de référence (pari-et-gagne.com) quand pas de filtre actif
+    const isUnfiltered = state.yearMin <= 1955 && state.yearMax >= 2026 && state.comps === null;
+    const useRef = isUnfiltered && meta.ref_j != null;
+
+    const displayWins = useRef ? meta.ref_g : wins;
+    const displayDraws = useRef ? meta.ref_n : draws;
+    const displayLosses = useRef ? meta.ref_p : losses;
+    const displayMatches = useRef ? meta.ref_j : matchCount;
+    const displayPart = useRef ? (meta.ref_part_total || seasonsUsed.size) : seasonsUsed.size;
+
     result[clubName] = {
       name: clubName,
       short: meta.short || clubName.slice(0, 3).toUpperCase(),
       logo_url: meta.logo_url || "",
-      wins,
-      draws,
-      losses,
+      wins: displayWins,
+      draws: displayDraws,
+      losses: displayLosses,
+      j: displayMatches,
       pts: Math.round(pts * 100) / 100,
       ratio: matchCount > 0 ? Math.round((pts / matchCount) * 1000) / 1000 : 0,
-      seasons: seasonsUsed.size,
+      foot_ratio: displayMatches > 0 ? Math.round(((displayWins * 3 + displayDraws) / displayMatches) * 1000) / 1000 : 0,
+      seasons: displayPart,
       comps: [...compsUsed],
+      bp: useRef && meta.ref_bp != null ? meta.ref_bp : null,
+      bc: useRef && meta.ref_bc != null ? meta.ref_bc : null,
+      diff: useRef && meta.ref_diff != null ? meta.ref_diff : null,
+      part: meta.ref_part_total != null ? meta.ref_part_total : null,
+      part_detail: meta.ref_c1 != null
+        ? `${meta.ref_c1}/${meta.ref_c2||0}/${meta.ref_c3||0}/${meta.ref_c4||0}`
+        : "",
     };
   }
 
@@ -178,13 +197,19 @@ function renderTable() {
   rows.sort((a, b) => {
     let va, vb;
     switch (state.sortCol) {
-      case "name":    va = a.name; vb = b.name; break;
-      case "seasons": va = a.seasons; vb = b.seasons; break;
-      case "wins":    va = a.wins; vb = b.wins; break;
-      case "draws":   va = a.draws; vb = b.draws; break;
-      case "losses":  va = a.losses; vb = b.losses; break;
-      case "ratio":   va = a.ratio; vb = b.ratio; break;
-      default:        va = a.pts; vb = b.pts;
+      case "name":       va = a.name; vb = b.name; break;
+      case "seasons":    va = a.seasons; vb = b.seasons; break;
+      case "j":          va = a.j; vb = b.j; break;
+      case "wins":       va = a.wins; vb = b.wins; break;
+      case "draws":      va = a.draws; vb = b.draws; break;
+      case "losses":     va = a.losses; vb = b.losses; break;
+      case "ratio":      va = a.ratio; vb = b.ratio; break;
+      case "foot_ratio": va = a.foot_ratio; vb = b.foot_ratio; break;
+      case "bp":         va = a.bp; vb = b.bp; break;
+      case "bc":         va = a.bc; vb = b.bc; break;
+      case "diff":       va = a.diff; vb = b.diff; break;
+      case "part":       va = a.part; vb = b.part; break;
+      default:           va = a.pts; vb = b.pts;
     }
     if (typeof va === "string") return state.sortDir === "asc" ? va.localeCompare(vb) : vb.localeCompare(va);
     return state.sortDir === "asc" ? va - vb : vb - va;
@@ -194,7 +219,7 @@ function renderTable() {
 
   const tbody = document.getElementById("ranking-body");
   if (rows.length === 0) {
-    tbody.innerHTML = `<tr><td colspan="9" class="loading">Aucun club trouvé</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="14" class="loading">Aucun club trouvé</td></tr>`;
     return;
   }
 
@@ -208,12 +233,17 @@ function renderTable() {
           <a href="club.html?club=${encodeURIComponent(r.name)}">${escapeHtml(r.name)}</a>
         </div>
       </td>
-      <td>${r.seasons}</td>
+      <td class="td-part" title="${r.part_detail ? 'C1/C2/C3/C4: ' + r.part_detail : ''}">${r.seasons}</td>
+      <td>${r.j}</td>
       <td class="td-wins">${r.wins}</td>
       <td class="td-draws">${r.draws}</td>
       <td class="td-losses">${r.losses}</td>
+      <td class="td-bp">${r.bp != null ? r.bp : '–'}</td>
+      <td class="td-bc">${r.bc != null ? r.bc : '–'}</td>
+      <td class="td-diff ${r.diff != null && r.diff > 0 ? 'positive' : r.diff != null && r.diff < 0 ? 'negative' : ''}">${r.diff != null ? (r.diff > 0 ? '+' + r.diff : r.diff) : '–'}</td>
       <td class="td-pts">${r.pts.toFixed(2)}</td>
       <td class="td-ratio">${r.ratio.toFixed(3)}</td>
+      <td class="td-foot-ratio">${r.foot_ratio.toFixed(3)}</td>
       <td class="td-comps">
         <div class="comp-pills">
           ${r.comps.map((c) => `<span class="comp-pill pill-${escapeHtml(c)}">${escapeHtml(c)}</span>`).join("")}

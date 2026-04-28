@@ -2,106 +2,186 @@
   "Paris Saint-Germain": {
     "short": "PSG",
     "color": "#004170",
-    "logo_url": "images/logos/psg.svg"
+    "logo_url": "images/logos/psg.gif"
   },
   "Olympique Lyonnais": {
     "short": "OL",
     "color": "#032f75",
-    "logo_url": "images/logos/ol.svg"
+    "logo_url": "images/logos/ol.gif"
   },
   "Olympique Marseille": {
     "short": "OM",
     "color": "#2CBFEF",
-    "logo_url": "images/logos/om.svg"
+    "logo_url": "images/logos/om.gif"
   },
   "AS Monaco": {
     "short": "ASM",
     "color": "#EF3340",
-    "logo_url": "images/logos/asm.svg"
+    "logo_url": "images/logos/asm.gif"
   },
   "LOSC Lille": {
     "short": "LOSC",
     "color": "#D0021B",
-    "logo_url": "images/logos/losc.svg"
+    "logo_url": "images/logos/losc.gif"
   },
   "RC Lens": {
     "short": "RCL",
     "color": "#FFD700",
-    "logo_url": "images/logos/rcl.svg"
+    "logo_url": "images/logos/rcl.gif"
   },
   "Girondins de Bordeaux": {
     "short": "GDB",
     "color": "#1D3F8F",
-    "logo_url": "images/logos/gdb.svg"
+    "logo_url": "images/logos/gdb.gif"
   },
   "Stade Rennais": {
     "short": "SRFC",
     "color": "#CF3237",
-    "logo_url": "images/logos/srfc.svg"
+    "logo_url": "images/logos/srfc.gif"
   },
   "OGC Nice": {
     "short": "OGCN",
     "color": "#CF3237",
-    "logo_url": "images/logos/ogcn.svg"
+    "logo_url": "images/logos/ogcn.gif"
   },
   "Stade Brestois": {
     "short": "SB29",
     "color": "#FFFFFF",
-    "logo_url": "images/logos/sb29.svg"
+    "logo_url": "images/logos/sb29.gif"
   },
   "RC Strasbourg": {
     "short": "RCSA",
     "color": "#004EA0",
-    "logo_url": "images/logos/rcsa.svg"
+    "logo_url": "images/logos/rcsa.gif"
   },
   "Toulouse FC": {
     "short": "TFC",
     "color": "#3E0081",
-    "logo_url": "images/logos/tfc.svg"
+    "logo_url": "images/logos/tfc.gif"
   },
   "AJ Auxerre": {
     "short": "AJA",
     "color": "#005BAC",
-    "logo_url": "images/logos/aja.svg"
+    "logo_url": "images/logos/aja.gif"
   },
   "AS Saint-Étienne": {
     "short": "ASSE",
     "color": "#00A046",
-    "logo_url": "images/logos/asse.svg"
+    "logo_url": "images/logos/asse.gif"
   },
   "FC Nantes": {
     "short": "FCN",
     "color": "#FFCD00",
-    "logo_url": "images/logos/fcn.svg"
+    "logo_url": "images/logos/fcn.gif"
   },
   "Stade de Reims": {
     "short": "SDR",
     "color": "#DA291C",
-    "logo_url": "images/logos/sdr.svg"
+    "logo_url": "images/logos/sdr.gif"
   },
   "SC Bastia": {
     "short": "SCB",
     "color": "#003087",
-    "logo_url": "images/logos/scb.svg"
+    "logo_url": "images/logos/scb.gif"
   },
   "FC Metz": {
     "short": "FCM",
     "color": "#7B2181",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/FC_Metz_logo.svg/200px-FC_Metz_logo.svg.png"
+    "logo_url": "images/logos/fcm.gif"
   },
   "FC Sochaux": {
     "short": "FCSM",
     "color": "#FFCD00",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Sochaux-Montb%C3%A9liard.svg/200px-FC_Sochaux-Montb%C3%A9liard.svg.png"
+    "logo_url": "images/logos/fcsm.gif"
   },
   "Montpellier HSC": {
     "short": "MHSC",
     "color": "#F57D00",
-    "logo_url": "images/logos/mhsc.svg"
+    "logo_url": "images/logos/mhsc.gif"
   },
   "EA Guingamp": {
     "short": "EAG",
     "color": "#CC0000",
-    "logo_url": "images/logos/eag.svg"
+    "logo_url": "images/logos/eag.gif"
+  },
+  "AS Nancy Lorraine": {
+    "short": "ASNL",
+    "color": "#CC0000",
+    "logo_url": "images/logos/asnl.gif"
+  },
+  "AS Cannes": {
+    "short": "ASC",
+    "color": "#7B2181",
+    "logo_url": "images/logos/asc.gif"
+  },
+  "Nîmes Olympique": {
+    "short": "NO",
+    "color": "#DA291C",
+    "logo_url": "images/logos/no.gif"
+  },
+  "FC Rouen": {
+    "short": "FCR",
+    "color": "#DA291C",
+    "logo_url": "images/logos/fcr.gif"
+  },
+  "Stade Français": {
+    "short": "SF",
+    "color": "#DA291C",
+    "logo_url": "images/logos/sf.gif"
+  },
+  "ES Troyes AC": {
+    "short": "ESTAC",
+    "color": "#003087",
+    "logo_url": "images/logos/estac.gif"
+  },
+  "Stade Lavallois": {
+    "short": "SL",
+    "color": "#F57D00",
+    "logo_url": "images/logos/sl.gif"
+  },
+  "CS Sedan Ardennes": {
+    "short": "CSSA",
+    "color": "#27AE60",
+    "logo_url": "images/logos/cssa.gif"
+  },
+  "FC Lorient": {
+    "short": "FCL",
+    "color": "#F57D00",
+    "logo_url": "images/logos/fcl.gif"
+  },
+  "Toulouse FC 1937-67": {
+    "short": "TFC67",
+    "color": "#5B2D8E",
+    "logo_url": "images/logos/tfc67.gif"
+  },
+  "SM Caen": {
+    "short": "SMC",
+    "color": "#DA291C",
+    "logo_url": "images/logos/smc.gif"
+  },
+  "Angoulême CFC": {
+    "short": "ACFC",
+    "color": "#003087",
+    "logo_url": "images/logos/acfc.gif"
+  },
+  "SCO Angers": {
+    "short": "SCO",
+    "color": "#000000",
+    "logo_url": "images/logos/sco.gif"
+  },
+  "FC Gueugnon": {
+    "short": "FCG",
+    "color": "#FFCD00",
+    "logo_url": "images/logos/fcg.gif"
+  },
+  "Racing CF": {
+    "short": "RCF",
+    "color": "#87CEEB",
+    "logo_url": "images/logos/rcf.gif"
+  },
+  "Berrichonne Châteauroux": {
+    "short": "LBC",
+    "color": "#003087",
+    "logo_url": "images/logos/lbc.gif"
   }
 }

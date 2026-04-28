@@ -263,8 +263,16 @@ header h1 {
 .td-wins { color: var(--w-color); font-weight: 600; }
 .td-draws { color: var(--d-color); }
 .td-losses { color: var(--l-color); }
+.td-bp { color: var(--text-muted); font-size: 0.85rem; }
+.td-bc { color: var(--text-muted); font-size: 0.85rem; }
+.td-diff { font-weight: 600; font-size: 0.85rem; }
+.td-diff.positive { color: var(--w-color); }
+.td-diff.negative { color: var(--l-color); }
 .td-pts { font-weight: 700; font-size: 1rem; }
 .td-ratio { color: var(--text-muted); font-size: 0.85rem; }
+.td-foot-ratio { color: #6eb55b; font-size: 0.85rem; font-weight: 500; }
+.th-foot-ratio { color: #6eb55b; }
+.td-part { font-size: 0.85rem; color: var(--text-muted); cursor: help; }
 
 .comp-pills { display: flex; gap: 0.3rem; flex-wrap: nowrap; }
 .comp-pill {
@@ -279,6 +287,7 @@ header h1 {
 .pill-UEL, .pill-UEFA { background: #D45B00; }
 .pill-CWC { background: #9B59B6; }
 .pill-UECL { background: #1a7a3c; }
+.pill-IT { background: #F39C12; }
 
 .loading { text-align: center !important; color: var(--text-muted); padding: 2rem !important; }
 

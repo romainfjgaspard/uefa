@@ -2,16 +2,18 @@
 
 Site web interactif montrant la contribution historique des clubs français au coefficient UEFA, depuis les premières Coupes des Clubs Champions jusqu'à aujourd'hui.
 
-🔗 **Démo** : [https://rgaspard.github.io/uefa/](https://rgaspard.github.io/uefa/) *(à mettre à jour)*
+🔗 **Démo** : [https://rgaspard.github.io/uefa/](https://rgaspard.github.io/uefa/)
 
 ---
 
 ## Fonctionnalités
 
-- **Classement général** : tous les clubs français triés par points UEFA totaux, avec V/N/D par compétition, ratio pts/match
+- **Classement général** : tous les clubs français triés par points UEFA totaux, avec J/V/N/D, Bp/Bc/Diff, ratio pts/match, participations par compétition (C1/C2/C3/C4)
+- **Totaux de référence** : colonnes J/V/N/D reflètent les données exactes de pari-et-gagne.com (sans filtre)
 - **Filtre par période** : slider date min/max pour recalculer le classement dynamiquement
-- **Fiche club** : détail de toutes les participations européennes (matchs, adversaires, scores, dates, round atteint)
+- **Fiche club** : détail de toutes les participations européennes (matchs, adversaires, scores, round atteint)
 - **Bar chart race** : animation de l'évolution des points cumulés par club au fil des saisons
+- **Logos des clubs** : 37 logos en local (images/logos/*.gif)
 - **Responsive** : utilisable sur mobile
 
 ---
@@ -20,26 +22,26 @@ Site web interactif montrant la contribution historique des clubs français au c
 
 ```
 uefa/
-├── build_seed_data.py      # Construit data/raw_matches.json depuis les données manuelles + scraping
+├── build_seed_data.py      # Construit data/raw_matches.json (toutes sources)
 ├── generate_data.py        # Génère les JSON du site depuis raw_matches.json
-├── scrape_wikipedia.py     # Scrape les résultats détaillés depuis Wikipedia
-├── fetch_data.py           # Scraper worldfootball.net (historique)
+├── scrape_peg_seasons.py   # Scrape pari-et-gagne.com (source principale, 1955→2026)
+├── scrape_wikipedia.py     # Scrape Wikipedia (UCL/UEL/UECL post-2016)
 ├── download_logos.py       # Télécharge les logos des clubs
 ├── data/
-│   └── raw_matches.json    # Tous les matchs (1 122 matchs, non versionné)
+│   ├── raw_matches.json        # Tous les matchs (~2811 matchs, non versionné)
+│   ├── real_matches_peg.json   # Matchs scrapés pari-et-gagne.com (non versionné)
+│   └── real_matches_cc_ucl.json
 └── web/                    # Site statique (versionné sur GitHub Pages)
-    ├── index.html          # Page principale (classement + filtres)
-    ├── club.html           # Fiche détaillée d'un club
-    ├── app.js              # Logique page principale
-    ├── club.js             # Logique fiche club
-    ├── barrace.js          # Bar chart race
+    ├── index.html
+    ├── app.js
     ├── style.css
+    ├── images/logos/       # 37 logos .gif clubs français
     └── data/
-        ├── clubs.json      # Stats agrégées par club
-        ├── seasons.json    # Stats par saison par club
-        ├── matches.json    # Tous les matchs enrichis
-        ├── timeline.json   # Points cumulés par saison (bar chart race)
-        └── clubs_meta.json # Métadonnées clubs (couleurs, logos, abréviations)
+        ├── clubs.json
+        ├── seasons.json
+        ├── matches.json
+        ├── timeline.json
+        └── clubs_meta.json
 ```
 
 ---
@@ -47,41 +49,48 @@ uefa/
 ## Pipeline de données
 
 ```
-build_seed_data.py  ──►  data/raw_matches.json  ──►  generate_data.py  ──►  web/data/*.json
-     │                                                       │
-     ├── SEED_HISTORY (données manuelles agrégées)           └── clubs.json
-     ├── scrape_wikipedia.py (détail matchs par saison)          seasons.json
-     └── worldfootball.net (scraping récent)                     matches.json
-                                                                 timeline.json
+scrape_peg_seasons.py  ──►  data/real_matches_peg.json   ─┐
+scrape_wikipedia.py    ──►  data/real_matches_wikipedia.json ─┤
+SEED_HISTORY (manual)                                     ─┤
+                                                           ▼
+                          build_seed_data.py  ──►  data/raw_matches.json
+                                                           │
+                                                           ▼
+                          generate_data.py  ──►  web/data/*.json
 ```
+
+**Priorité des sources** (ordre décroissant) :
+1. `manual` — matchs PSG 2024-25 encodés manuellement (17 matchs)
+2. `peg_season` — pari-et-gagne.com (2298 matchs, toutes compétitions 1955–2026)
+3. `wikipedia_knockout` / `wikipedia_group_synth` — Wikipedia post-2016
+4. `real_matches_cc_ucl` — archives CC/UCL historiques (comble les lacunes PEG)
+5. `synthetic` — données SEED_HISTORY agrégées (fallback pour saisons non couvertes)
 
 **Pour régénérer les données :**
 ```bash
 cd uefa/
-python build_seed_data.py    # génère data/raw_matches.json
-python generate_data.py      # génère web/data/*.json
+python scrape_peg_seasons.py   # scrape pari-et-gagne.com (~70 saisons)
+python build_seed_data.py      # génère data/raw_matches.json
+python generate_data.py        # génère web/data/*.json
 ```
 
 **Pour servir le site localement :**
 ```bash
-cd uefa/
-python -m http.server 8765
-# puis ouvrir http://localhost:8765/web/
+cd uefa/web/
+python -m http.server 8080
+# puis ouvrir http://localhost:8080/
 ```
 
 ---
 
 ## Sources de données
 
-| Source | Usage | Couverture |
-|--------|-------|------------|
-| **Wikipedia** (fr + en) | Détail des matchs par saison et par compétition | 1955 → aujourd'hui |
-| **RSSSF** (rsssf.org) | Archives historiques (pré-1990) | 1955 → 1990 |
-| **eurotopteam.com** | Coefficients UEFA par club et par saison | 5 dernières saisons |
-| **worldfootball.net** | Résultats détaillés par club et par saison | 1990 → aujourd'hui |
-| **Données manuelles** (SEED_HISTORY) | Statistiques agrégées compilées manuellement | 1955 → 2024 |
-
-Les données manuelles (`SEED_HISTORY` dans `build_seed_data.py`) sont la source principale pour les saisons historiques. Elles ont été compilées depuis Wikipedia, RSSSF et eurotopteam, et encodées sous forme agrégée (nb de V/N/D par phase : qualifications, phase de groupes, KO).
+| Source | Usage | Couverture | Matchs |
+|--------|-------|------------|--------|
+| **pari-et-gagne.com** | Matchs détaillés toutes compétitions | 1955 → 2026 | ~2300 |
+| **Wikipedia** (fr + en) | UCL/UEL/UECL post-2016 | 2016 → aujourd'hui | ~250 |
+| **SEED_HISTORY** (manuel) | Stats agrégées (fallback) | 1955 → 2024 | synthétique |
+| **Matchs manuels** | PSG UCL 2024-25 | 2024-25 | 17 |
 
 ---
 
@@ -91,10 +100,10 @@ Les données manuelles (`SEED_HISTORY` dans `build_seed_data.py`) sont la source
 |------|-------------|---------|
 | `CC` | Coupe des Clubs Champions | 1955/56 → 1991/92 |
 | `CWC` | Coupe des Vainqueurs de Coupe | 1960/61 → 1998/99 |
-| `UEFA` | Coupe UEFA | 1971/72 → 2008/09 |
 | `UCL` | Ligue des Champions UEFA | 1992/93 → aujourd'hui |
-| `UEL` | Ligue Europa | 2009/10 → aujourd'hui |
+| `UEL` | Ligue Europa (+ Coupe UEFA) | 1971/72 → aujourd'hui |
 | `UECL` | Ligue Europa Conférence | 2021/22 → aujourd'hui |
+| `IT` | Coupe Intertoto | 1995 → 2008 |
 
 ---
 

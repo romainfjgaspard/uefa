@@ -58,24 +58,30 @@
           <tr>
             <th class="th-rank">#</th>
             <th class="th-club sortable" data-sort="name">Club</th>
-            <th class="th-saisons sortable" data-sort="seasons">Saisons</th>
+            <th class="th-part sortable" data-sort="part" title="Participations européennes (C1, C2, C3, C4)">Part</th>
+            <th class="th-j sortable" data-sort="j" title="Matchs joués">J</th>
             <th class="th-w sortable" data-sort="wins">V</th>
             <th class="th-d sortable" data-sort="draws">N</th>
             <th class="th-l sortable" data-sort="losses">D</th>
+            <th class="th-bp sortable" data-sort="bp" title="Buts pour">Bp</th>
+            <th class="th-bc sortable" data-sort="bc" title="Buts contre">Bc</th>
+            <th class="th-diff sortable" data-sort="diff" title="Différence de buts">Diff</th>
             <th class="th-pts sortable sorted-desc" data-sort="pts">Pts UEFA</th>
-            <th class="th-ratio sortable" data-sort="ratio">Pts/Match</th>
+            <th class="th-ratio sortable" data-sort="ratio">Pts UEFA/M</th>
+            <th class="th-foot-ratio sortable" data-sort="foot_ratio" title="Points football (3V+1N) par match">Pts Foot/M</th>
             <th class="th-comps">Compétitions</th>
           </tr>
         </thead>
         <tbody id="ranking-body">
-          <tr><td colspan="9" class="loading">Chargement…</td></tr>
+          <tr><td colspan="14" class="loading">Chargement…</td></tr>
         </tbody>
       </table>
     </div>
 
     <div class="table-footnote">
-      Points UEFA = 2 pts victoire, 1 pt nul, 0 pt défaite (demi-valeur en qualifications)<br>
-      + bonus parcours : +1,5 pt/tour (C1), +1 pt/tour (C3), +0,5 pt/tour (ECL)
+      Points UEFA = 2 pts victoire, 1 pt nul, 0 pt défaite (demi-valeur en qualifications depuis 1998/99)<br>
+      + bonus parcours : +1,5 pt/tour (C1), +1 pt/tour (C3), +0,5 pt/tour (ECL) depuis 2021/22<br>
+      Pts Foot/M = (3V + N) / matchs joués (système football classique)
     </div>
   </section>
 
