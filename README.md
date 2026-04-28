@@ -160,21 +160,24 @@ Ces bonus s'ajoutent aux points de match pour chaque tour atteint en phase à é
 
 ---
 
-## Clubs couverts (19)
+## Clubs couverts (37)
 
 Paris Saint-Germain · Olympique Lyonnais · Olympique Marseille · AS Monaco ·
 LOSC Lille · RC Lens · Girondins de Bordeaux · Stade Rennais · OGC Nice ·
 Stade Brestois · RC Strasbourg · Toulouse FC · AJ Auxerre · AS Saint-Étienne ·
 FC Nantes · Stade de Reims · SC Bastia · FC Sochaux · Montpellier HSC ·
-EA Guingamp
+EA Guingamp · FC Metz · AS Nancy Lorraine · AS Cannes · FC Lorient ·
+FC Gueugnon · FC Rouen · SM Caen · Stade Lavallois · Stade Français ·
+Angoulême CFC · Nîmes Olympique · CS Sedan Ardennes · SCO Angers ·
+Racing CF · Berrichonne Châteauroux · ES Troyes AC · Toulouse FC 1937-67
 
 ---
 
-## Chiffres clés (au 27/04/2026)
+## Chiffres clés (au 28/04/2026)
 
 | Métrique | Valeur |
 |----------|--------|
-| Matchs dans la BDD | 1 122 |
-| Saisons-clubs | 212 |
-| Clubs couverts | 19 |
+| Matchs dans la BDD | 2 811 |
+| Saisons-clubs | 507 |
+| Clubs couverts | 37 |
 | Période couverte | 1955/56 → 2025/26 |
