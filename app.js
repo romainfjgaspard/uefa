@@ -260,6 +260,7 @@ function switchTab(tab) {
   document.querySelectorAll(".tab-btn").forEach((b) => b.classList.toggle("active", b.dataset.tab === tab));
   document.querySelectorAll(".tab-content").forEach((s) => s.classList.toggle("active", s.id === `tab-${tab}`));
   if (tab === "barrace" && window.barraceInit) window.barraceInit();
+  if (tab === "bonus" && window.bonusInit) window.bonusInit();
 }
 
 // ============================================================

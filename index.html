@@ -17,6 +17,7 @@
   <nav class="tab-nav">
     <button class="tab-btn active" data-tab="ranking">Classement</button>
     <button class="tab-btn" data-tab="barrace">Évolution historique</button>
+    <button class="tab-btn tab-btn-bonus" data-tab="bonus">🎭 Bonus</button>
   </nav>
 
   <!-- =================== TAB: CLASSEMENT =================== -->
@@ -98,13 +99,53 @@
     <div id="barrace-container"></div>
   </section>
 
+  <!-- =================== TAB: BONUS =================== -->
+  <section id="tab-bonus" class="tab-content">
+    <div class="bonus-header">
+      <h2>🎭 Et si l'histoire avait été différente&nbsp;?</h2>
+      <p class="bonus-intro">Points UEFA cumulés depuis 1955, top 10 clubs réels + quelques simulations qui auraient pu changer le monde (du football français).</p>
+    </div>
+
+    <div class="bonus-scenarios">
+      <div class="scenario-card scenario-om">
+        <span class="scenario-icon">🔴⚪</span>
+        <div>
+          <strong>Polo prend les rênes de l'OM (2005)</strong><br>
+          Après avoir cartonné à Centrale en 2005, Polo décide de ressusciter l'Olympique de Marseille. Sous sa houlette visionnaire, l'OM enchaîne les campagnes européennes de haut vol. L'OM aurait pu dépasser tout le monde… mais en 2025, l'appel du Canari se fait irrésistible.
+        </div>
+      </div>
+      <div class="scenario-card scenario-nantes">
+        <span class="scenario-icon">💛</span>
+        <div>
+          <strong>Polo révèle la vérité : il est supporter de Nantes (2025)</strong><br>
+          Polo quitte l'OM et rejoint le FC Nantes. Il avait menti depuis le début — il a toujours été Canari dans l'âme. Nantes entame une révolution qui fera trembler l'Europe. L'OM, abasourdi, retombe dans l'anonymat.
+        </div>
+      </div>
+      <div class="scenario-card scenario-nilmar">
+        <span class="scenario-icon">⚽</span>
+        <div>
+          <strong>Le penalty sifflé sur Nilmar (2004-05)</strong><br>
+          Saison 2004-05. Lyon domine l'Europe depuis 4 ans. En demi-finale d'UCL, l'arbitre siffle un pénalty litigieux contre Nilmar. Match nul, Lyon éliminé. Et si l'arbitre avait laissé jouer ? L'OL champion d'Europe, peut-être une, deux, trois fois… La trajectoire du club rhodanien aurait été radicalement différente.
+        </div>
+      </div>
+    </div>
+
+    <div class="bonus-chart-wrap">
+      <canvas id="bonus-chart"></canvas>
+    </div>
+
+    <p class="bonus-disclaimer">⚠️ Les simulations sont évidemment fictives et humoristiques. Les données réelles des 10 premiers clubs sont exactes.</p>
+  </section>
+
   <footer>
     Sources : UEFA, eurotopteam.com, worldfootball.net, RSSSF —
     <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>
   </footer>
 
   <script src="data/clubs.json" type="application/json" id="clubs-data-raw" style="display:none"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
   <script src="app.js"></script>
   <script src="barrace.js"></script>
+  <script src="bonus.js"></script>
 </body>
 </html>
